@@ -9,8 +9,8 @@ I've created this document with the hopes of providing fellow craftswomen (&etc)
   
 Pictured throughout this guide is the making of my toy *Crush Depth*, designed and handcrafted over the winter of 2020-2021.  
 
-![A finished pour of the Crush Depth dildo, in marbled purples and blues](images/CrushDepthFinisedNebula.jpg)
-  
+![A finished pour of the Crush Depth dildo, in marbled purples and blues](images/CrushDepthFinishedNebula.jpg)    
+    
 If you have any questions or comments, please don't hesitate to reach out via email: cocksmith@fastest.cc  
   
 
@@ -104,7 +104,7 @@ For convenience, here's a compact list of products used. Links in the leftmost c
 |   |                                                                           |                               |                        |                                                                               |
 |   | 0.15ml Scoop                                                              |     Mica Pigment Transfer     |           10           | [$2.20](https://www.elementsbathandbody.com/.15cc-.15ml-Measuring-Scoop.html) |
       
-Mixing containers are listed as quanity: 10 because they're sold in packs of ten online. In brick & mortar Reynolds stores, mixing containers are available individually.
+Mixing containers are listed as quantity: 10 because they're sold in packs of ten online. In brick & mortar Reynolds stores, mixing containers are available individually.
     
 ## Tools  
 ### 3D printer  
