@@ -9,7 +9,7 @@ I've created this document with the hopes of providing fellow craftswomen (&etc)
   
 Pictured throughout this guide is the making of my toy *Crush Depth*, designed and handcrafted over the winter of 2020-2021.  
 
-![A finished pour of the Crush Depth dildo, in marbled purples and blues](images/CrushDepthFinis edNebula.jpg)
+![A finished pour of the Crush Depth dildo, in marbled purples and blues](images/CrushDepthFinishedNebula.jpg)
   
 If you have any questions or comments, please don't hesitate to reach out via email: cocksmith@fastest.cc  
   
