@@ -10,7 +10,9 @@ I've created this document with the hopes of providing fellow craftswomen (&etc)
 Pictured throughout this guide is the making of my toy *Crush Depth*, designed and handcrafted over the winter of 2020-2021.  
 
 ![A finished pour of the Crush Depth dildo, in marbled purples and blues](images/CrushDepthFinishedNebula.jpg)    
-    
+  
+The source version of this document is located on [GitHub]([https://github.com/starkatt/Cocksmithing/blob/master/cocksmithing.md]). This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+        
 If you have any questions or comments, please don't hesitate to reach out via email: cocksmith@fastest.cc  
   
 
@@ -423,7 +425,7 @@ In practice, to compensate for inevitable losses in the process (mostly silicone
     
 It's a good idea to write down this measurement on the outside of the support shell (fine-tip sharpie works great). I find it clearest to record both the pour volume and the mold volume, e.g. "pour 10oz / actual 8oz".  
  
-Dry the mold completely before attempting a production pour.   
+Dry the mold completely before attempting a production pour. For faster drying, you can use a heat gun or stick the glove mold in an oven on low heat -- temperatures under 300°F are unlikely to hurt the silicone.
   
 # Pouring a Toy  
  
@@ -443,7 +445,7 @@ Measure out equal (by volume) quantities of Part A and Part B of your chosen toy
   
 It's ok to measure by addition in a single container. Make sure the mixing container is at least three times as large as the actual amount of silicone, since it will foam significantly during vacuum degassing. 
   
-As soon as Part A and Part B come into contact, it's a good idea to start a stopwatch so you know how much of the pot life has elapsed. Phones work, but I highly prefer a cheap kitchen timer so I don't have to worry about getting goop on my device.    
+As soon as Part A and Part B come into contact, it's a good idea to start a stopwatch so you know how much of the pot life has elapsed. Phones work, but I highly prefer a cheap kitchen timer so I don't have to worry about getting gunk on my device.    
    
 Mix the silicone thoroughly, making sure to scrape the bottom and sides of the container. Don't worry too much about creating bubbles -- they're inevitable, and will be removed by the vacuum degassing. 
   
@@ -458,17 +460,14 @@ Your vacuum chamber should have two valves -- a line valve between the vacuum ch
 2. Turn on the vacuum pump.  
 3. Close the vent valve. After a moment, the vacuum chamber gauge should start indicating a pressure drop. If this doesn't occur, try re-seating the chamber lid.  
 4. As the pressure drops, the silicone mixture will start to bubble vigorously. The surface of the silicone will rise to approximately three times its original volume, crest, and then fall.
-5. Once the pressure level bottoms out, you can minimize pump wear by closing the line valve and then turning the pump off. This shouldn't be necessary for a high-quality vacuum pump, but I've seen it recommended for cheaper pumps only rated for limited duty cycle.
-6. Allow the silicone to fully degas. The product documentation for Dragon Skin says to only degas for 90 seconds, but with my low-quality pump I've gotten better results by waiting until bubbling stops completely. 
-7. Turn off the pump if you haven't already done so. Release the vacuum by *slowly* opening the vent valve. Seriously, do this slowly -- air rushes into vacuum at approximately the speed of sound, and can easily cause splashing.
+5. Allow the silicone to fully degas. The product documentation for Dragon Skin says to only degas for 90 seconds, but with my low-quality pump I've gotten better results by waiting until bubbling stops completely. 
+6. Turn off the pump. Release the vacuum by *slowly* opening the vent valve. Seriously, do this slowly -- air rushes into vacuum at approximately the speed of sound, and can easily cause splashing.
 
 ![A batch of silicone being degassed inside the vacuum chamber](images/CrushDepthMixDegassing.jpg)
 
 After the silicone mixture has been fully degassed, do not stir it in any way or bubbles will be reintroduced.   
   
 ## Pouring  
-Place the production mold somewhere it can be kept stable and vertical, open side up. A good way to do this is to hang the mold across the mouth of a bucket. Conveniently, a vacuum chamber is functionally isomorphic to a bucket.  
-  
 Pour the mixed and degassed silicone slowly and smoothly into the lowest point of the mold. The silicone should pour as a single, continuous stream or sheet, free of bubbles. Keep pouring in the same spot, allowing the level of the silicone to rise evenly until the mold has been filled.  
   
 Allow the toy to fully cure. The listed product cure time is a good point of reference, but remember that a full cure may take much longer in cold temperatures.   
@@ -477,14 +476,13 @@ Once fully cured, the toy can be removed by peeling back and inverting the glove
   
 If everything went well, you are now holding your very own handcrafted dildo! Congratulations!  
     
-## Advanced: Marbled Pour       
+## Advanced: Marbled Pour  
+  
+blah blah doobie doo       
       
 ## *Optional: Trimming*  
+As cast, the edges around the base of the toy are likely going to be extremely thin and delicate. While this doesn't cause any usage issues, trimming the base results in a more professional finished product.   
   
-# Selling Your Crafts
+![Before and after trimming the edge of a toy](images/trimming.png)
   
-
-  
-*tips please!!!*  
-  
-# Changelog
+To trim the edges, set the toy down by the base, on a surface that isn't going to get damaged (a cutting mat is ideal). Use a sharp hobby knife to make a vertical cut around the entire perimeter, a few millimeters away from the edge. It's best to do this in one continuous stroke without repositioning the blade, otherwise you might end up with a jagged edge. 
