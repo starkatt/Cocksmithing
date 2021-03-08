@@ -9,7 +9,7 @@ I've created this document with the hopes of providing fellow craftswomen (&etc)
   
 Pictured throughout this guide is the making of my toy *Crush Depth*, designed and handcrafted over the winter of 2020-2021.  
 
-![A finished pour of the Crush Depth dildo, in marbled purples and blues](images/crush depth finished nebula.jpg)
+![A finished pour of the Crush Depth dildo, in marbled purples and blues](images/CrushDepthFinis edNebula.jpg)
   
 If you have any questions or comments, please don't hesitate to reach out via email: cocksmith@fastest.cc  
   
@@ -165,7 +165,7 @@ Some colors of `Silc-Pig` come with an independent skin safety certification, bu
 #### Mica Pigments  
 Mica-based pigments are an excellent choice for silicone, and are sold as a fine powder. They usually have some amount of luster, shimmer, or sparkle, and are widely used in cosmetics.   
   
-![Baggies of colorful mica pigments](images/mica pigments.jpg)
+![Baggies of colorful mica pigments](images/MicaPigments.jpg)
   
 Be cautious when shopping for mica pigments online. Many sellers  incorrectly describe fine plastic glitters as "mica". Similarly, "Cosmetics-Grade" is an extremely vague classification that describe a wide variety of different additives. A much more rigorous descriptor is the specific FDA application certifications for a particular ingredient.
   
@@ -232,7 +232,7 @@ The *Crush Depth* design pictured throughout this document has multiple areas of
 ### No Bubble Traps  
 The toy will be poured with the mold tip-down. As you pour, the level of silicone in the mold will rise evenly, starting from the lowest point in the mold. Design your model so that there are no pockets where escaping air or rising bubbles will become trapped, or else the finished toy will be plagued by bubble pores.   
   
-![An illustration of a toy design which creates bubble traps](images/bubble trap.png)  
+![An illustration of a toy design which creates bubble traps](images/BubbleTrap.png)  
        
 ## 3D Modeling a Toy  
 A full overview of 3D sculpting and modeling methods is beyond the scope of this document. All skills are learnable, and modeling is no exception. 
@@ -241,7 +241,7 @@ Use whatever software is most comfortable for you.
   
 Blender is a free modeling program that is extremely comprehensive, though its user interface is a lot more clunky than other software. More professional-oriented digital sculpting tools include ZBrush and Mudbox, though getting a legitimate license can be exceedingly expensive. Going another route, you can also use CAD software ranging from something as bare-bones as OpenSCAD to something as complex as Autodesk.  
   
-![Top and side views of the toy modeled in zbrush](images/crush depth zbrush model.png)
+![Top and side views of the toy modeled in zbrush](images/CrushDepthZbrushModel.png)
     
 Any program capable of creating an `.stl` file for 3d printing will work. If you get started using software that you're not familiar with -- especially free software -- make sure it can export to `.stl` before you invest too much time in making a model.  
   
@@ -270,7 +270,7 @@ Each kit comes with a tiny mixing cup and one foam brush. So that you're not lim
   
 Before you mix the epoxy, secure the primary model so that its base isn't resting flat on your work surface, to prevent epoxy from pooling and creating an "elephant's foot". Also, make sure you have a way to stably hold the model while brushing, and that it won't tip over while it cures. I've been able to meet all of these needs by hot gluing the model to a small block on top of a wooden stir stick. 
  
-![The Primary model mounted as described](images/crush depth model fixture.jpg)
+![The Primary model mounted as described](images/CrushDepthModelFixture.jpg)
   
 Mix the `XTC-3D` epoxy, **2A:1B**. A few ml is probably plenty. Pot life is 10 minutes.
   
@@ -282,7 +282,7 @@ Once an area is wetted, it will stay wet even when brushed again. Keep brushing 
   
 Bubbles are your enemy. Brush out large bubbles. Small bubbles can often be eliminated by *quickly* skimming the wet epoxy surface with the heat from a torch flame. 
 
-![The primary model with a glossy coat of XTC-3D](images/crush depth model smoothed.jpg)
+![The primary model with a glossy coat of XTC-3D](images/CrushDepthModelSmoothed.jpg)
   
 Allow the coating to fully cure before handling the model. The listed tack free time is two hours, but full hardness takes several times longer.
   
@@ -321,7 +321,7 @@ In the final casting step, the mold will need to be held base-up while the silic
   
 To prevent silicone from creeping underneath, use more hot glue to seal around the bottom edge of the model   
     
-![Primary model mounted on a cardboard base with a bead of hot glue around the toe](images/crush depth model foot seal.jpg)
+![Primary model mounted on a cardboard base with a bead of hot glue around the toe](images/CrushDepthModelFootSeal.jpg)
       
 Spray the primary model and base surface with `Ease Release 200`. If this isn't done, the glove mold will adhere to the primary model and probably be unusable. The product literature for `Ease Release` says to use use a multi-step process of spraying, brushing, and spraying again, but I haven't found that to be necessary -- a light mist that covers all surfaces is sufficient. Too much mold release can actually result in a finished toy with an unpleasant, sticky coating that is difficult to wash off.  
   
@@ -334,7 +334,7 @@ Mix a batch of `Rebound 25`, 1A:1B, stirring until streak-free. Since the first 
   
 Brush a layer of Rebound on to the model. Most of the silicone will probably slough right off. That's okay, since the goal is to capture detail, not build thickness.  
   
-![The model coated with the first layer of Rebound 25, and a second layer ready to be mixed](images/crush depth glove mold layer 1.jpg)
+![The model coated with the first layer of Rebound 25, and a second layer ready to be mixed](images/CrushDepthGloveMoldLayer1.jpg)
   
 Bubbles are your enemy. Any bubbles trapped on the surface of the model will result in wart-like lumps on the finished toy. Do your best to eliminate them.    
   
@@ -346,7 +346,7 @@ Adding some `Thi-Vex` thixotropic additive allows the silicone to be applied in 
   
 The thickened silicone is easier to apply with a wooden stir stick than with a brush. Spread the silicone evenly over the model. Small bubbles in the second layer are less critical than in the first, since they don't intersect with the model's surface.
   
-![The model coated with a second layer of Rebound 25](images/crush depth glove mold layer 2.jpg)
+![The model coated with a second layer of Rebound 25](images/CrushDepthGloveMoldLayer2.jpg)
   
 The product literature for `Rebound 25` suggests using four layers to create a mold thickness of 3/8". Using the `Thi-Vex` additive, I've gotten good results with as few as two total layers only totaling about 3/16" - 1/4". There's a tradeoff -- a mold that's too thin is at risk of tearing, but a mold that's too thick is harder to remove from the primary model or a finished piece, especially around areas of undercut. 
   
@@ -364,7 +364,7 @@ The two haves of the support shell will hold together better if they form a mati
   
 There's a lot of ways to do this, but the easiest way I've found so far is to use scrap cardboard to build a scaffolding fin around the centerline.   
   
-![A scaffolding fin of waxed cardboard around the glove mold](images/crush depth shell scaffold fin.jpg) 
+![A scaffolding fin of waxed cardboard around the glove mold](images/CrushDepthShellScaffoldFin.jpg) 
   
 The scaffolding fin will only be used to support the mating flange for Side A of the support shell, so it only needs one "good" side. Bracing the back side of the scaffolding fin with additional cardboard helps with rigidity. 
   
@@ -387,18 +387,18 @@ Also, spread a "wing" of plasti-paste far enough out along the base so that it w
   
 As the plasti-paste starts to cure, scrape along the edges of the application to create a clean and sharp perimeter. This isn't *entirely* necessary, but makes the support shell more professional.  
   
-![Side A of the support shell](images/crush depth support shell a.jpg)
+![Side A of the support shell](images/CrushDepthSupportShellA.jpg)
 
 ### Support Shell, Side B  
 Once Side A of the support shell has cured, remove the scaffolding fin.  
   
 Apply a thorough coating of mold release to Side B, especially along the newly revealed surface of the mating flange. Do not forget this step or the two halves of the support shell will adhere together permanently.
 
-![Flange along the backside of Side A of the support shell](images/crush depth support shell b1.jpg)
+![Flange along the backside of Side A of the support shell](images/CrushDepthSupportShellB1.jpg)
   
 Mix another batch of plasti-paste. Apply the plasti-paste to Side B in the same manner as Side A. Spread plasti-paste up along the mating flange around the entire perimeter of the glove mold, but be careful not to spread any past the edge.
 
-![Side B of the support shell](images/crush depth support shell b2.jpg)
+![Side B of the support shell](images/CrushDepthSupportShellB2.jpg)
 
 ## Finishing the Production Mold  
   
@@ -411,7 +411,7 @@ Next, separate the two halves of the support shell. Even if you built the shell 
   
 Now you can pull the primary model out of the glove mold. To do this, you'll probably need to invert the glove mold as you pull.  
   
-![Removing the primary model from the glove mold](images/crush depth demolding.jpg)
+![Removing the primary model from the glove mold](images/CrushDepthDemolding.jpg)
   
 From this point forward, you should keep the inside surface of the glove mold as clean as possible. Any dust or debris left in there during a pour will likely be trapped and create defects in the toy surface. I recommend carefully cleaning the  glove mold after removing the primary model, then transferring the mold to a sealed storage bag.  
   
@@ -430,7 +430,7 @@ Dry the mold completely before attempting a production pour.
 ## Preparation  
 Assemble the production mold by placing the glove mold between the two halves of the support shell, then secure the halves together with rubber bands.   
     
-![The production mold, ready to be filled](images/crush depth pour ready.jpg)
+![The production mold, ready to be filled](images/CrushDepthPourReady.jpg)
     
 Spray the inside of the mold with a small amount of `Ease Release 200` mold release. *This is critical* -- if no mold release is used, the glove mold and the toy will adhere together, potentially ruining both. However, using an excessive amount of mold release results in a finished toy covered in residue that is sticky and hard to wash off. A short spritz directed down the inside of the mold is about right.  
   
@@ -462,7 +462,7 @@ Your vacuum chamber should have two valves -- a line valve between the vacuum ch
 6. Allow the silicone to fully degas. The product documentation for Dragon Skin says to only degas for 90 seconds, but with my low-quality pump I've gotten better results by waiting until bubbling stops completely. 
 7. Turn off the pump if you haven't already done so. Release the vacuum by *slowly* opening the vent valve. Seriously, do this slowly -- air rushes into vacuum at approximately the speed of sound, and can easily cause splashing.
 
-![A batch of silicone being degassed inside the vacuum chamber](images/crush depth mix degassing.jpg)
+![A batch of silicone being degassed inside the vacuum chamber](images/CrushDepthMixDegassing.jpg)
 
 After the silicone mixture has been fully degassed, do not stir it in any way or bubbles will be reintroduced.   
   
