@@ -142,25 +142,27 @@ A cheap kitchen timer is incredibly helpful for tracking elapsed pot life. This 
     
 [Exoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/) can be used to create a toy that is very soft. Pot life is 45 minutes and cure time is 4 hours -- significantly longer than Dragon Skin. This may allow more time for complex color mixes. `Ecoflex 00-30` is also much less viscous than Dragon Skin which can make vacuum degassing easier.
       
-[Dragon Skin 20](https://www.smooth-on.com/products/dragon-skin-20/) and [Dragon Skin 30](https://www.smooth-on.com/products/dragon-skin-30/) are options for an extra firm silicone, but I haven't yet used them myself.
+[Dragon Skin 20](https://www.smooth-on.com/products/dragon-skin-20/) and [Dragon Skin 30](https://www.smooth-on.com/products/dragon-skin-30/) are options for an extra firm silicone, but I haven't used them myself yet.
   
-I've tried [Dragon Skin FX-Pro](https://www.smooth-on.com/products/dragon-skin-fx-pro/), and have personally found it to be a little harder to work with than the standard line of Dragon Skin products. Using half a "part" `Slacker` in `10NV` gives comparable firmness and nicer squishiness (in my opinion). Also, the reduction of pot life from 15 to 12 minutes is definitely noticeable when mixing multiple colors, and the "gel stage" curing progress makes it become viscous faster than I'd like. Your opinions might be different!  
+I've tried [Dragon Skin FX-Pro](https://www.smooth-on.com/products/dragon-skin-fx-pro/), and have personally found it to be a little harder to work with than the standard line of Dragon Skin products. Using half a "part" `Slacker` in `10NV` gives comparable firmness (and nicer squishiness) to `FX-Pro`, in my opinion. Also, the reduction of pot life from 15 to 12 minutes is definitely noticeable when mixing multiple colors, and the "gel stage" curing progress makes it become viscous faster than I'd like. Your opinions might be different!  
   
 Annoyingly, Smooth-On sells their silicone products by weight, but you'll likely be measuring and mixing by volume. Their 2lb trial size contains about 28 fluid ounces of silicone. Gallon kits cost about 6x as much as the trial kits, and contain 8x as much silicone. If you decide to get a gallon kit, *definitely* also buy one of their bucket openers -- prying the lids off is extremely difficult without one.  
   
 Weighing some toys already in your collection may be helpful for getting a very rough idea of how much silicone you'll need for an overall size of design.  
   
+I recommend initially buying enough silicone to pour at least two copies of your toy.
+  
 ### Pigments  
 Unless you want your dong to be colorless and ghostly translucent,   you're going to need to add some pigments to the mix.
   
 #### Silc-Pig  
-The [Silc-Pig](https://www.smooth-on.com/products/silc-pig/) line of pigments sold by Smooth-On are a good default option. The sample pack gives nine different colors, each in what will likely be sufficient quantity for prototyping and some limited production.  
+The [Silc-Pig](https://www.smooth-on.com/products/silc-pig/) line of pigments sold by Smooth-On are a good default option. The sample pack gives nine different colors, each in what will likely be sufficient quantity for prototyping and some production.  
   
 `Silc-Pig` pigments are packaged as a viscous paste. An okay way to add these pigments to a silicone mix is to use a toothpick to transfer a few drops worth. However, this can be hard to accurately control, and you need to be careful to stir in the pigment very thoroughly to avoid unmixed lumps. 
   
 A better method is to transfer the contents of each color in the sample pack into a small screw top jar, then dilute each color with at least 15ml of [Silicone Thinner](https://www.smooth-on.com/products/silicone-thinner/). The resulting liquid pigment can then be easily and accurately be added to a silicone mix using disposable plastic droppers. Shake each jar before use, since pigment may settle to the bottom.  
 
-[Silc-Pig Electric](https://www.smooth-on.com/products/silc-pig-electric/) UV reactive pigments are also available Unfortunately, they aren't yet sold as a sample pack, so you need to buy each color individually.  
+[Silc-Pig Electric](https://www.smooth-on.com/products/silc-pig-electric/) UV reactive pigments are also available, and can produce excellent results. Unfortunately, they aren't yet sold as a sample pack, so you need to buy each color individually.  
   
 Some colors of `Silc-Pig` come with an independent skin safety certification, but many do not. I am not an expert, but it is my *opinion* that all of these pigments are likely fine for use in sex toys -- they're widely used in skin-contact applications, and being mixed into silicone thoroughly encapsulates any pigment particles.
 
@@ -247,7 +249,9 @@ Blender is a free modeling program that is extremely comprehensive, though its u
     
 Any program capable of creating an `.stl` file for 3d printing will work. If you get started using software that you're not familiar with -- especially free software -- make sure it can export to `.stl` before you invest too much time in making a model.  
   
-It may be extremely helpful to create a rough sketch or physical approximation of a toy before starting on a digital sculpt, to provide reference for the desired dimension and proportions. A toy will frequently look different as a physical object than it did as a computer model.
+It may be extremely helpful to create a rough sketch or physical approximation of a toy before starting on a digital sculpt, to provide reference for the desired dimension and proportions. A toy will frequently look different as a physical object than it did as a computer model.  
+  
+You may want to slightly exaggerate the depth of any texturing or detailing, since the `XTC-3D` epoxy (used to smooth print lines) does soften surface features.
   
 # Creating the Primary Model
 ## Print 
@@ -308,6 +312,7 @@ Blast outdoors, and wear a a dust mask (or better) for respiratory protection. I
 Although many mold-making tutorials describe the creation of a two-part block mold, for dildo-shaped objects without excessive undercut a single-piece glove mold is both easier and more economical.   
   
 The mold silicone is applied to the primary model in a continuous, thin layer. Finished cast pieces can be safely removed by turning the mold inside-out.  
+
   
 Since the glove mold is thin and flexible, in order to hold its shape for casting it needs to be backed by a rigid two-part support mold, sometimes called a "mother mold". Traditionally these have been made using raw fiberglass fabric and epoxy layups. For this project, using `Plasti-Paste II` fiber-reinforced epoxy is considerably easier. 
   
@@ -449,7 +454,7 @@ As soon as Part A and Part B come into contact, it's a good idea to start a stop
    
 Mix the silicone thoroughly, making sure to scrape the bottom and sides of the container. Don't worry too much about creating bubbles -- they're inevitable, and will be removed by the vacuum degassing. 
   
-Add and thoroughly mix any desired pigments.While a two-color pour is pictured, I strongly recommend sticking with single colors until you're comfortable with the process. A marbling technique is discussed later in this document. 
+Add and thoroughly mix any desired pigments. While a multi-color pour is pictured, I strongly recommend sticking with single colors until you're comfortable with the process. A marbling technique is discussed later in this document. 
   
 ## Degassing  
 Placing the silicone mixture under a vacuum will suck out any entrapped air bubbles, which would otherwise cause pores and cavities in a finished toy. Vacuum degassing is required for a quality product.  
@@ -463,12 +468,14 @@ Your vacuum chamber should have two valves -- a line valve between the vacuum ch
 5. Allow the silicone to fully degas. The product documentation for Dragon Skin says to only degas for 90 seconds, but with my low-quality pump I've gotten better results by waiting until bubbling stops completely. 
 6. Turn off the pump. Release the vacuum by *slowly* opening the vent valve. Seriously, do this slowly -- air rushes into vacuum at approximately the speed of sound, and can easily cause splashing.
 
-![A batch of silicone being degassed inside the vacuum chamber](images/CrushDepthMixDegassing.jpg)
-
 After the silicone mixture has been fully degassed, do not stir it in any way or bubbles will be reintroduced.   
   
 ## Pouring  
-Pour the mixed and degassed silicone slowly and smoothly into the lowest point of the mold. The silicone should pour as a single, continuous stream or sheet, free of bubbles. Keep pouring in the same spot, allowing the level of the silicone to rise evenly until the mold has been filled.  
+Pour the mixed and degassed silicone slowly and smoothly into the lowest point of the mold. The silicone should pour as a single, continuous stream or sheet, free of bubbles. If there are any bubbles in the mixture, pouring a slow and thin stream from high above the mold can maximize the chance that they will pop on the way down.   
+  
+![Pouring multicolored silicone into the mold](images/silicone_pour.jpg) 
+  
+Keep pouring in the same spot, allowing the level of the silicone to rise evenly until the mold has been filled.  
   
 Allow the toy to fully cure. The listed product cure time is a good point of reference, but remember that a full cure may take much longer in cold temperatures.   
   
@@ -477,8 +484,27 @@ Once fully cured, the toy can be removed by peeling back and inverting the glove
 If everything went well, you are now holding your very own handcrafted dildo! Congratulations!  
     
 ## Advanced: Marbled Pour  
+Marbling is a craft that is both complex and subtle. Getting premium quality marbling takes practice, and getting *consistently* premium marbling even moreso. I'm still in the process of improving my skills. The approach given here is only one method, and you may find value in experimenting with other techniques or doing additional research.  
   
-blah blah doobie doo       
+Begin by mixing Part A and Part B of your silicone as normal. You may want to use a little more silicone than for single-color pours. Divide the silicone into two (or more) containers, one for each color.  
+  
+Add and mix pigment for each color separately.
+  
+While still in separate containers, vacuum degas the silicone. This doesn't need to be a perfect 100% degassing, but the more bubbles are removed now the more distinct each color will be.
+  
+Pour the different colors back into a single container. So far I've gotten best results by pouring so that each added color is biased towards one side of the container.  
+  
+Then, mix together the colors *just a little bit*. Do not over-mix -- literally only two or three turns/strokes is plenty.
+
+![Black, blue, and pink silicone roughly swirled in a mixing container](images/marble_mix.jpg)  
+  
+Vacuum degas the silicone a second time. Any remaining air will bubble up, and in the process cause substantial additional mixing and blending of the colors.  
+  
+Pour. For best results, clearly-defined colors should run down the stream of silicone as long, parallel stripes. To distribute colors more evenly, rotate to pour from different directions around the mold, while still aiming the stream into the same point in the center. This can be aided be placing the mold and bucket on a turntable to allow for 360° rotation.  
+  
+Try not to let the stream of silicone run down the sides of the molds. Doing so will result in smeared vertical streaks.
+    
+The faster and heavier your pour, the coarser the grain of the marbling will be. 
       
 ## *Optional: Trimming*  
 As cast, the edges around the base of the toy are likely going to be extremely thin and delicate. While this doesn't cause any usage issues, trimming the base results in a more professional finished product.   
