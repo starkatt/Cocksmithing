@@ -43,7 +43,7 @@ The cheapest viable vacuum chamber and pump is about $145 (including oil). If yo
   
 This project also uses a minimum of about $250 in materials, *if* everything goes right the first time.   
   
-Significantly more detail can be found in the [Tools and Materials](#tools--materials) section of this document.
+Significantly more detail can be found in the [Tools & Materials](#tools--materials) section of this document.
   
 Quality is asymptotic. Producing one okay-ish toy will require a certain baseline of time and money, but if you're anything like me you may feel compelled to revisit, revise, and refine various steps of the production process. Costs can add up faster than you might think.  
   
@@ -103,7 +103,7 @@ You may want to slightly exaggerate the depth of any texturing or detailing, sin
   
 # Creating the Primary Model
 ## Print 
-Make sure your printer is properly tuned and calibrated.  
+Make sure your printer is properly tuned and calibrated. Information about suitable printers can be found in the [Tools](#3d-printer) section.
   
 3D print your toy.      
     
@@ -294,7 +294,8 @@ Lay out all of the materials you'll need before starting -- silicone, stirring t
 Test the vacuum chamber and pump ahead of time, practicing the degassing sequence.  
   
 ## Mixing  
-Measure out equal (by volume) quantities of Part A and Part B of your chosen toy silicone. (If you're using `Slacker` additive, pour it in before adding Part B.) Remember, the total amount mixed should be a minimum of two ounces greater than the actual volume of the mold.     
+  
+Measure out equal volumes of Part A and Part B of your chosen toy silicone (options are described in detail in the [Toy Materials](#toy-materials) section) Remember, the total amount mixed should be a minimum of two ounces greater than the actual volume of the mold.     
   
 It's ok to measure by addition in a single container. Make sure the mixing container is at least three times as large as the actual amount of silicone, since it will foam significantly during vacuum degassing. 
   
@@ -302,10 +303,10 @@ As soon as Part A and Part B come into contact, it's a good idea to start a stop
    
 Mix the silicone thoroughly, making sure to scrape the bottom and sides of the container. Don't worry too much about creating bubbles -- they're inevitable, and will be removed by the vacuum degassing. 
   
-Add and thoroughly mix any desired pigments. While a multi-color pour is pictured, I strongly recommend sticking with single colors until you're comfortable with the process. A marbling technique is discussed later in this document. 
+Add and thoroughly mix any desired [pigments](#pigments). While a multi-color pour is pictured, I strongly recommend sticking with single colors until you're comfortable with the process. A marbling technique is discussed later in this document. 
   
 ## Degassing  
-Placing the silicone mixture under a vacuum will suck out any entrapped air bubbles, which would otherwise cause pores and cavities in a finished toy. Vacuum degassing is required for a quality product.  
+Placing the silicone mixture under a vacuum will suck out any entrapped air bubbles, which would otherwise cause pores and cavities in a finished toy. Vacuum degassing is required for a quality product. The [Tools](#vacuum-chamber) section provides more information about suitable pumps and chambers
   
 Your vacuum chamber should have two valves -- a line valve between the vacuum chamber and the pump, and a vent valve between the chamber and free air. Proper operation of a vacuum pump and chamber for degassing follows a specific sequence:  
    
