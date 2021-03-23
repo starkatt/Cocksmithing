@@ -41,7 +41,9 @@ This is not a project that can be finished in a weekend. I'm hesitant to give es
   
 The cheapest viable vacuum chamber and pump is about $145 (including oil). If you don't already have access to one, decent 3D printers are available for under $250. 
   
-This project also uses a minimum of about $250 in materials, *if* everything goes right the first time. 
+This project also uses a minimum of about $250 in materials, *if* everything goes right the first time.   
+  
+Significantly more detail can be found in the [Tools and Materials](#tools-and-materials) section of this document.
   
 Quality is asymptotic. Producing one okay-ish toy will require a certain baseline of time and money, but if you're anything like me you may feel compelled to revisit, revise, and refine various steps of the production process. Costs can add up faster than you might think.  
   
@@ -60,160 +62,6 @@ The silicone casting process can produce a lot of waste. I like to keep a trash 
 
 Nitrile or vinyl gloves should be worn whenever silicones or epoxies are being mixed. While uncured silicones and epoxies are both unpleasant to get on your hands, epoxy in particular can cause severe reactions with repeated unprotected exposure. Latex gloves should not be used, as they may cause cure inhibition in silicone.    
 
-# Tools & Materials   
-Nearly all of the materials used for this project come from one vendor: [Smooth-On](https://www.smooth-on.com/). They're a company specializing in silicone and urethane casting, and their marquee application is propmaking and special effects for film, theater, and cosplay. 
-  
-It may seem odd that I'm relying so heavily on a single company. Because Smooth-On is a business focused entirely around moldmaking and casting, they carry a very comprehensive line of products for nearly all steps in this project. Their silicones are almost universally used and well-regarded for toymaking. I have no relationship with them outside of being a customer.  
-  
-The primary US distributor for Smooth-On is [Reynolds Advanced Materials](https://www.reynoldsam.com/). I'm lucky to have a local branch near enough to where I live, but they offer shipping as well.    
-  
-Smooth-On cautions that their products have a [limited shelf life](https://www.smooth-on.com/page/materials-shelf-life-warranty/), and this warning should be taken seriously. I've been able to use `Dragon Skin` silicone as long as 15 months after purchase, but by that time the product had formed a layer of gel at the bottom of the container, and took *significantly* longer to cure. I advise staying within their shelf life guidelines -- don't buy a giant stockpile of supplies expecting them to last years.
-  
-## Shopping List   
-  
-For convenience, here's a compact list of products used. Links in the leftmost column go to the relevant product details pages on the Smooth-On website. Links in the price column go to the order page on Reynolds Advanced Materials, or to Elements Bath and Body for the mica pigments.   
-(Prices retrieved as of February 2021.)
-  
-|   |                                                                           |                               |                        |                                                                               |
-|---|---------------------------------------------------------------------------|:-----------------------------:|:----------------------:|:-----------------------------------------------------------------------------:|
-|   | **Toy Materials**                                                         |                               |                        |                                                                               |
-|   | [Dragon Skin NV10](https://www.smooth-on.com/products/dragon-skin-10-nv/) |          Toy Silicone         |      2lb Trial Kit     |             [$32.21](https://www.reynoldsam.com/product/silc-pig/)            |
-|   | [Silc-Pig](https://www.smooth-on.com/products/silc-pig/)                  |          Toy Pigment          | Sample Pack (9 colors) |             [$31.84](https://www.reynoldsam.com/product/silc-pig/)            |
-|   | [Exoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/)        |    Alternative Toy Silicone   |      2lb Trial Kit     |              [32.21](https://www.reynoldsam.com/product/ecoflex/)             |
-|   | [Mica Pigment](https://www.elementsbathandbody.com/Micas/)                |      Alternative Pigment      |           1oz          |            [$3.99/ea](https://www.elementsbathandbody.com/Micas/)           |
-|   |                                                                           |                               |                        |                                                                               |
-|   | **Moldmaking Materials**                                                  |                               |                        |                                                                               |
-|   | [Ease Release 200](https://www.smooth-on.com/products/ease-release-200/)  |       Mold Release Agent      |        12-Ounce        |         [$14.28](https://www.reynoldsam.com/product/ease-release-200/)        |
-|   | [XTC-3D](https://www.smooth-on.com/products/xtc-3d/)                      |        Smoothing Epoxy        |     6oz Trial Unit     |              [$11.21](https://www.reynoldsam.com/product/xtc-3d/)             |
-|   | [Rebound 25](https://www.smooth-on.com/products/rebound-25/)              |      Glove Mold Silicone      |      2lb Trial Kit     |          [$32.21](https://www.reynoldsam.com/product/rebound-series/)         |
-|   | [Thi-Vex](https://www.smooth-on.com/products/thi-vex/)                    |       Glove Mold Additive      |           1oz          |              [$3.30](https://www.reynoldsam.com/product/thi-vex/)             |
-|   | [Plasti-Paste II](https://www.smooth-on.com/products/plasti-paste-ii/)    |         Support Shell         |     3.3lb Trial Kit    |         [$36.23](https://www.reynoldsam.com/product/plasti-paste-ii/)         |
-|   |                                                                           |                               |                        |                                                                               |
-|   | **Consumables**                                                           |                               |                        |                                                                               |
-|   | 1oz Mixing Container                                                      |         XTC-3D mixing         |           10           |                                     $5.00                                     |
-|   | 16oz Mixing Container                                                     |        Silicone Mixing        |           10           |         [$6.31](https://www.reynoldsam.com/product/mixing-containers/)        |
-|   | 32oz Mixing Container                                                     |        Silicone Mixing        |           10           |         [$7.60](https://www.reynoldsam.com/product/mixing-containers/)        |
-|   | 64oz Mixing Container                                                     | Silicone Mixing (larger toys) |           10           |        [$18.94](https://www.reynoldsam.com/product/mixing-containers/)        |
-|   | Stir Sticks                                                               |    Mixing, Mold Application   |           30           |                                     $9.00                                     |
-|   | 1" Chip Brushes                                                           |        Mold Application       |            8           |                                     $4.00                                     |
-|   | Nitrile Gloves                                                            |              PPE              |        100-pack        |                                      $20                                      |
-|   |                                                                           |                               |                        |                                                                               |
-|   | **Supplementals**                                                              |                               |                        |                                                                               |
-|   | [Slacker](https://www.smooth-on.com/products/slacker/)                    |       Silicone Softener       |          Pint          |             [$20.79](https://www.reynoldsam.com/product/slacker/)             |
-|   | [Silicone Thinner](https://www.smooth-on.com/products/silicone-thinner/)  |        Pigment Dilution       |          Pint          |         [$14.63](https://www.reynoldsam.com/product/silicone-thinner/)        |
-|   | 2oz Plastic Jar                                                           |    Diluted Silc-Pig Storage   |           12           |                                      $15                                      |
-|   | 0.5ml Plastic Dropper                                                     |       Silc-Pig Transfer       |           100          |                                       $4                                      |
-|   |                                                                           |                               |                        |                                                                               |
-|   | 0.15ml Scoop                                                              |     Mica Pigment Transfer     |           10           | [$2.20](https://www.elementsbathandbody.com/.15cc-.15ml-Measuring-Scoop.html) |
-      
-Mixing containers are listed as quantity: 10 because they're sold in packs of ten online. In brick & mortar Reynolds stores, mixing containers are available individually.
-    
-## Tools  
-### 3D printer  
-Just about any 3D printer with a sufficiently large build volume will be able to produce a suitable primary model. Both filament and resin printers should work. Higher-quality prints will likely require less post-processing, but the smoothing process described in this document is intended to fully cover any layer lines and other tooling marks.
-     
-The Ender 3 is an extremely well regarded budget printer -- a modified and upgraded Ender 3 is what I've been personally using for printing primary models. It's far from the only good printer out there, but is a solid default choice.
-    
-A full guide to 3D printer options, setup, tuning, and troubleshooting is beyond the scope of this document. [CTRL-Pew](https://ctrlpew.com/the-complete-getting-started-guide/) has some solid getting started pages -- they're aimed at folks who 3D print gun parts, but the processes are all transferable. If video is more your style,
-[Teaching Tech](https://www.youtube.com/playlist?list=PLGqRUdq5ULsOwW9G08jV43YTdMyqJ6xGB) on YouTube has a good beginner playlist. 
-      
-If you don't already own a 3D printer, consider asking around in your community to see if someone is willing to run a few prints for you, instead of deciding to buy your own. Most home printers sit idle most of the time, and their owners may be happy to offer their services.
-  
-### Vacuum Chamber 
-A vacuum chamber and pump is used to degas the liquid silicone mixture before pouring. This is a mandatory step, unless you're okay with a toy made porous by bubbles.
-  
-A budget 3-gallon vacuum chamber and 4cfm vacuum pump can be purchased together online for about $130. That's about the lower limit of what I'd consider viable for vacuum degassing -- it will remove bubbles very slowly, and may perform suboptimally with more viscous silicones.  
-  
-Purchasing a top-quality vacuum chamber and higher-performance US-made vacuum pump may cost at least twice as much. 
-  
-Vacuum pumps often ship without lubrication, and require the addition of specialty vacuum pump oil. This is easy enough to find online -- don't run your pump without it.
-  
-### Other Tools
-Hot glue is used for multiple steps in the crafting process.  
-
-A cheap kitchen timer is incredibly helpful for tracking elapsed pot life. This isn't strictly necessary, but I highly prefer it to using a phone or making estimates based on start time.  
-  
-## Toy Materials  
-### Silicone  
- 
-[Dragon Skin 10 NV](https://www.smooth-on.com/products/dragon-skin-10-nv/) is good default toy material to start with. This is a premium-quality, certified skin safe platinum-cure silicone. The hardness is Shore 10A, which I would describe as an excellent "medium" to "medium-firm" hardness for sex toys. Pot life is 15 minutes and cure time is 75 minutes. The product literature says "vacuum degassing is not necessary", but it my experience degassing *is mandatory* for bubble-free results. 
-  
-[Slacker](https://www.smooth-on.com/products/slacker/) can be added to a silicone mixture to make a toy softer. I've gotten great results with adding some `Slacker` to `Dragon Skin 10NV` to produce a medium-soft product. In my opinion a good sweet spot is half a "part" of Slacker, i.e. 1A:1B:0.5S. Higher proportions of `Slacker` result in a toy that is softer, but unfortunately come with the side effect of producing an increasingly tacky surface. An added benefit of ``Slacker` is that it makes the toy feel "spongier" rather than rubbery when squished  -- it's hard to describe, but it does feel more fleshlike.  
-    
-[Exoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/) can be used to create a toy that is very soft. Pot life is 45 minutes and cure time is 4 hours -- significantly longer than Dragon Skin. This may allow more time for complex color mixes. `Ecoflex 00-30` is also much less viscous than Dragon Skin which can make vacuum degassing easier.
-      
-[Dragon Skin 20](https://www.smooth-on.com/products/dragon-skin-20/) and [Dragon Skin 30](https://www.smooth-on.com/products/dragon-skin-30/) are options for an extra firm silicone, but I haven't used them myself yet.
-  
-I've tried [Dragon Skin FX-Pro](https://www.smooth-on.com/products/dragon-skin-fx-pro/), and have personally found it to be a little harder to work with than the standard line of Dragon Skin products. Using half a "part" `Slacker` in `10NV` gives comparable firmness (and nicer squishiness) to `FX-Pro`, in my opinion. Also, the reduction of pot life from 15 to 12 minutes is definitely noticeable when mixing multiple colors, and the "gel stage" curing progress makes it become viscous faster than I'd like. Your opinions might be different!  
-  
-Annoyingly, Smooth-On sells their silicone products by weight, but you'll likely be measuring and mixing by volume. Their 2lb trial size contains about 28 fluid ounces of silicone. Gallon kits cost about 6x as much as the trial kits, and contain 8x as much silicone. If you decide to get a gallon kit, *definitely* also buy one of their bucket openers -- prying the lids off is extremely difficult without one.  
-  
-Weighing some toys already in your collection may be helpful for getting a very rough idea of how much silicone you'll need for an overall size of design.  
-  
-I recommend initially buying enough silicone to pour at least two copies of your toy.
-  
-### Pigments  
-Unless you want your dong to be colorless and ghostly translucent,   you're going to need to add some pigments to the mix.
-  
-#### Silc-Pig  
-The [Silc-Pig](https://www.smooth-on.com/products/silc-pig/) line of pigments sold by Smooth-On are a good default option. The sample pack gives nine different colors, each in what will likely be sufficient quantity for prototyping and some production.  
-  
-`Silc-Pig` pigments are packaged as a viscous paste. An okay way to add these pigments to a silicone mix is to use a toothpick to transfer a few drops worth. However, this can be hard to accurately control, and you need to be careful to stir in the pigment very thoroughly to avoid unmixed lumps. 
-  
-A better method is to transfer the contents of each color in the sample pack into a small screw top jar, then dilute each color with at least 15ml of [Silicone Thinner](https://www.smooth-on.com/products/silicone-thinner/). The resulting liquid pigment can then be easily and accurately be added to a silicone mix using disposable plastic droppers. Shake each jar before use, since pigment may settle to the bottom.  
-
-[Silc-Pig Electric](https://www.smooth-on.com/products/silc-pig-electric/) UV reactive pigments are also available, and can produce excellent results. Unfortunately, they aren't yet sold as a sample pack, so you need to buy each color individually.  
-  
-Some colors of `Silc-Pig` come with an independent skin safety certification, but many do not. I am not an expert, but it is my *opinion* that all of these pigments are likely fine for use in sex toys -- they're widely used in skin-contact applications, and being mixed into silicone thoroughly encapsulates any pigment particles.
-
-#### Mica Pigments  
-Mica-based pigments are an excellent choice for silicone, and are sold as a fine powder. They usually have some amount of luster, shimmer, or sparkle, and are widely used in cosmetics.   
-  
-![Baggies of colorful mica pigments](images/MicaPigments.jpg)
-  
-Be cautious when shopping for mica pigments online. Many sellers  incorrectly describe fine plastic glitters as "mica". Similarly, "Cosmetics-Grade" is an extremely vague classification that describe a wide variety of different additives. A much more rigorous descriptor is the specific FDA application certifications for a particular ingredient.
-  
-I've purchased my mica pigments from [Elements Bath and Body](https://www.elementsbathandbody.com/Micas/), and have been very happy with their products.
-  
-For my own toys, I've gotten excellent results by combining both `Silc-Pig` and mica pigments to achieve target colors.  
-  
-## Mold-Making Materials  
-[Ease Release 200](https://www.smooth-on.com/products/ease-release-200/) is a spray-on mold release agent. Using a mold release is necessary to prevent various things from permanently sticking to each other when they shouldn't, both during creation of the production mold and for casting finished toys.
-  
-[XTC-3D](https://www.smooth-on.com/products/xtc-3d/) is a brush-on self-leveling epoxy used to coat the 3D printed primary model, smoothing over layer lines and other surface imperfections. 
-  
-[Rebound 25](https://www.smooth-on.com/products/rebound-25/) silicone is used for the brush-on glove mold.
-  
-[Thi-Vex](https://www.smooth-on.com/products/thi-vex/) is a thixotropic additive. Adding some `Thi-Vex` allows `Rebound 25` to be brushed on in a significantly thicker layer.
-
-[Plasti-Paste II](https://www.smooth-on.com/products/plasti-paste-ii/) is a glass-fiber reinforced epoxy used to make the mold support shell.
-    
-Unless your toy is huge, the smallest available size of each of these products should be sufficient to make at least one mold.
- 
-## Consumables  
-  
-### Mixing containers
-Disposable containers are required to measure and mix silicones and epoxies. If a silicone is going to be vacuum degassed, the container needs to be at least 3x as large as the actual amount of silicone used. The disposable containers sold by Reynolds are excellent quality.
-    
-For reference, here's an outline of mixing container requirements for this project as written: 2x 30ml (not available from Reynolds), 6x 16oz, 2x 32oz, plus one or two more 32oz or 64oz containers for each toy poured. This assumes that measurement is done by addition in a single container wherever possible, and that every step goes right the first time. I recommend buying more containers than you think you need.
-   
-It's often possible to re-use mixing containers by allowing the contents to cure fully, then pulling any residue out as a single mass. However, this only works if the contents have been well-mixed and there's been no major spillage or contamination -- plan for containers being single-use when counting up how many to buy.
-  
-### Stir Sticks  
-Disposable wooden stir sticks (commonly used for mixing household paint) can work beautifully for mixing silicones. One significant advantage of wooden stir sticks is that their flat edges are well suited to scraping the sides of a container, ensuring thorough mixing. However, use caution, as low-quality sticks (including some I've purchased at Reynolds) may shed splinters -- contamination which can easily ruin a toy.   
-  
-As with mixing containers, buy more stir sticks than you think you'll need.   
-  
-Disposable plastic knives can be used as alternative to wooden stir sticks. Plastic knives are cheaper per unit, and carry no risk of splinters. However, their small size can make it more difficult to stir large mixes, and their shape isn't as well suited to scraping container bottoms.  
-  
-  
-### Other Stuff  
-Nitrile gloves should be worn whenever epoxies or silicones are being mixed or applied -- i.e, in almost every step of this process. Expect to go through a lot of them.  
-  
-Several small single-use chip brushes are required for applying the `XTC-3D` smoothing epoxy and the `Rebound 25` mold silicone.
-
-Some 220-grit sandpaper (or thereabout) is handy for cleaning up any irregularities in the 3D-printed primary model. Finer grits may also be useful for finish sanding between coats of `XTC-3D`. 
-  
 # Toy Design and Modeling
 The first step in crafting your own dildo is to create a positive primary model of the toy. This will be used to form the inner shape of a silicone glove mold negative. The main method discussed here will be to design the toy digitally and then 3d print a primary model for sculpting. Other options include hand-sculpting a model with clay, wax, sculpey, or similar.
   
@@ -511,4 +359,158 @@ As cast, the edges around the base of the toy are likely going to be extremely t
   
 ![Before and after trimming the edge of a toy](images/trimming.png)
   
-To trim the edges, set the toy down by the base, on a surface that isn't going to get damaged (a cutting mat is ideal). Use a sharp hobby knife to make a vertical cut around the entire perimeter, a few millimeters away from the edge. It's best to do this in one continuous stroke without repositioning the blade, otherwise you might end up with a jagged edge. 
+To trim the edges, set the toy down by the base, on a surface that isn't going to get damaged (a cutting mat is ideal). Use a sharp hobby knife to make a vertical cut around the entire perimeter, a few millimeters away from the edge. It's best to do this in one continuous stroke without repositioning the blade, otherwise you might end up with a jagged edge.   
+  
+# Tools & Materials   
+Nearly all of the materials used for this project come from one vendor: [Smooth-On](https://www.smooth-on.com/). They're a company specializing in silicone and urethane casting, and their marquee application is propmaking and special effects for film, theater, and cosplay. 
+  
+It may seem odd that I'm relying so heavily on a single company. Because Smooth-On is a business focused entirely around moldmaking and casting, they carry a very comprehensive line of products for nearly all steps in this project. Their silicones are almost universally used and well-regarded for toymaking. I have no relationship with them outside of being a customer.  
+  
+The primary US distributor for Smooth-On is [Reynolds Advanced Materials](https://www.reynoldsam.com/). I'm lucky to have a local branch near enough to where I live, but they offer shipping as well.    
+  
+Smooth-On cautions that their products have a [limited shelf life](https://www.smooth-on.com/page/materials-shelf-life-warranty/), and this warning should be taken seriously. I've been able to use `Dragon Skin` silicone as long as 15 months after purchase, but by that time the product had formed a layer of gel at the bottom of the container, and took *significantly* longer to cure. I advise staying within their shelf life guidelines -- don't buy a giant stockpile of supplies expecting them to last years.
+  
+## Shopping List   
+  
+For convenience, here's a compact list of products used. Links in the leftmost column go to the relevant product details pages on the Smooth-On website. Links in the price column go to the order page on Reynolds Advanced Materials, or to Elements Bath and Body for the mica pigments.   
+(Prices retrieved as of February 2021.)
+  
+|   |                                                                           |                               |                        |                                                                               |
+|---|---------------------------------------------------------------------------|:-----------------------------:|:----------------------:|:-----------------------------------------------------------------------------:|
+|   | **Toy Materials**                                                         |                               |                        |                                                                               |
+|   | [Dragon Skin NV10](https://www.smooth-on.com/products/dragon-skin-10-nv/) |          Toy Silicone         |      2lb Trial Kit     |             [$32.21](https://www.reynoldsam.com/product/silc-pig/)            |
+|   | [Silc-Pig](https://www.smooth-on.com/products/silc-pig/)                  |          Toy Pigment          | Sample Pack (9 colors) |             [$31.84](https://www.reynoldsam.com/product/silc-pig/)            |
+|   | [Exoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/)        |    Alternative Toy Silicone   |      2lb Trial Kit     |              [32.21](https://www.reynoldsam.com/product/ecoflex/)             |
+|   | [Mica Pigment](https://www.elementsbathandbody.com/Micas/)                |      Alternative Pigment      |           1oz          |            [$3.99/ea](https://www.elementsbathandbody.com/Micas/)           |
+|   |                                                                           |                               |                        |                                                                               |
+|   | **Moldmaking Materials**                                                  |                               |                        |                                                                               |
+|   | [Ease Release 200](https://www.smooth-on.com/products/ease-release-200/)  |       Mold Release Agent      |        12-Ounce        |         [$14.28](https://www.reynoldsam.com/product/ease-release-200/)        |
+|   | [XTC-3D](https://www.smooth-on.com/products/xtc-3d/)                      |        Smoothing Epoxy        |     6oz Trial Unit     |              [$11.21](https://www.reynoldsam.com/product/xtc-3d/)             |
+|   | [Rebound 25](https://www.smooth-on.com/products/rebound-25/)              |      Glove Mold Silicone      |      2lb Trial Kit     |          [$32.21](https://www.reynoldsam.com/product/rebound-series/)         |
+|   | [Thi-Vex](https://www.smooth-on.com/products/thi-vex/)                    |       Glove Mold Additive      |           1oz          |              [$3.30](https://www.reynoldsam.com/product/thi-vex/)             |
+|   | [Plasti-Paste II](https://www.smooth-on.com/products/plasti-paste-ii/)    |         Support Shell         |     3.3lb Trial Kit    |         [$36.23](https://www.reynoldsam.com/product/plasti-paste-ii/)         |
+|   |                                                                           |                               |                        |                                                                               |
+|   | **Consumables**                                                           |                               |                        |                                                                               |
+|   | 1oz Mixing Container                                                      |         XTC-3D mixing         |           10           |                                     $5.00                                     |
+|   | 16oz Mixing Container                                                     |        Silicone Mixing        |           10           |         [$6.31](https://www.reynoldsam.com/product/mixing-containers/)        |
+|   | 32oz Mixing Container                                                     |        Silicone Mixing        |           10           |         [$7.60](https://www.reynoldsam.com/product/mixing-containers/)        |
+|   | 64oz Mixing Container                                                     | Silicone Mixing (larger toys) |           10           |        [$18.94](https://www.reynoldsam.com/product/mixing-containers/)        |
+|   | Stir Sticks                                                               |    Mixing, Mold Application   |           30           |                                     $9.00                                     |
+|   | 1" Chip Brushes                                                           |        Mold Application       |            8           |                                     $4.00                                     |
+|   | Nitrile Gloves                                                            |              PPE              |        100-pack        |                                      $20                                      |
+|   |                                                                           |                               |                        |                                                                               |
+|   | **Supplementals**                                                              |                               |                        |                                                                               |
+|   | [Slacker](https://www.smooth-on.com/products/slacker/)                    |       Silicone Softener       |          Pint          |             [$20.79](https://www.reynoldsam.com/product/slacker/)             |
+|   | [Silicone Thinner](https://www.smooth-on.com/products/silicone-thinner/)  |        Pigment Dilution       |          Pint          |         [$14.63](https://www.reynoldsam.com/product/silicone-thinner/)        |
+|   | 2oz Plastic Jar                                                           |    Diluted Silc-Pig Storage   |           12           |                                      $15                                      |
+|   | 0.5ml Plastic Dropper                                                     |       Silc-Pig Transfer       |           100          |                                       $4                                      |
+|   |                                                                           |                               |                        |                                                                               |
+|   | 0.15ml Scoop                                                              |     Mica Pigment Transfer     |           10           | [$2.20](https://www.elementsbathandbody.com/.15cc-.15ml-Measuring-Scoop.html) |
+      
+Mixing containers are listed as quantity: 10 because they're sold in packs of ten online. In brick & mortar Reynolds stores, mixing containers are available individually.
+    
+## Tools  
+### 3D printer  
+Just about any 3D printer with a sufficiently large build volume will be able to produce a suitable primary model. Both filament and resin printers should work. Higher-quality prints will likely require less post-processing, but the smoothing process described in this document is intended to fully cover any layer lines and other tooling marks.
+     
+The Ender 3 is an extremely well regarded budget printer -- a modified and upgraded Ender 3 is what I've been personally using for printing primary models. It's far from the only good printer out there, but is a solid default choice.
+    
+A full guide to 3D printer options, setup, tuning, and troubleshooting is beyond the scope of this document. [CTRL-Pew](https://ctrlpew.com/the-complete-getting-started-guide/) has some solid getting started pages -- they're aimed at folks who 3D print gun parts, but the processes are all transferable. If video is more your style,
+[Teaching Tech](https://www.youtube.com/playlist?list=PLGqRUdq5ULsOwW9G08jV43YTdMyqJ6xGB) on YouTube has a good beginner playlist. 
+      
+If you don't already own a 3D printer, consider asking around in your community to see if someone is willing to run a few prints for you, instead of deciding to buy your own. Most home printers sit idle most of the time, and their owners may be happy to offer their services.
+  
+### Vacuum Chamber 
+A vacuum chamber and pump is used to degas the liquid silicone mixture before pouring. This is a mandatory step, unless you're okay with a toy made porous by bubbles.
+  
+A budget 3-gallon vacuum chamber and 4cfm vacuum pump can be purchased together online for about $130. That's about the lower limit of what I'd consider viable for vacuum degassing -- it will remove bubbles very slowly, and may perform suboptimally with more viscous silicones.  
+  
+Purchasing a top-quality vacuum chamber and higher-performance US-made vacuum pump may cost at least twice as much. 
+  
+Vacuum pumps often ship without lubrication, and require the addition of specialty vacuum pump oil. This is easy enough to find online -- don't run your pump without it.
+  
+### Other Tools
+Hot glue is used for multiple steps in the crafting process.  
+
+A cheap kitchen timer is incredibly helpful for tracking elapsed pot life. This isn't strictly necessary, but I highly prefer it to using a phone or making estimates based on start time.  
+  
+## Toy Materials  
+### Silicone  
+ 
+[Dragon Skin 10 NV](https://www.smooth-on.com/products/dragon-skin-10-nv/) is good default toy material to start with. This is a premium-quality, certified skin safe platinum-cure silicone. The hardness is Shore 10A, which I would describe as an excellent "medium" to "medium-firm" hardness for sex toys. Pot life is 15 minutes and cure time is 75 minutes. The product literature says "vacuum degassing is not necessary", but it my experience degassing *is mandatory* for bubble-free results. 
+  
+[Slacker](https://www.smooth-on.com/products/slacker/) can be added to a silicone mixture to make a toy softer. I've gotten great results with adding some `Slacker` to `Dragon Skin 10NV` to produce a medium-soft product. In my opinion a good sweet spot is half a "part" of Slacker, i.e. 1A:1B:0.5S. Higher proportions of `Slacker` result in a toy that is softer, but unfortunately come with the side effect of producing an increasingly tacky surface. An added benefit of ``Slacker` is that it makes the toy feel "spongier" rather than rubbery when squished  -- it's hard to describe, but it does feel more fleshlike.  
+    
+[Exoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/) can be used to create a toy that is very soft. Pot life is 45 minutes and cure time is 4 hours -- significantly longer than Dragon Skin. This may allow more time for complex color mixes. `Ecoflex 00-30` is also much less viscous than Dragon Skin which can make vacuum degassing easier.
+      
+[Dragon Skin 20](https://www.smooth-on.com/products/dragon-skin-20/) and [Dragon Skin 30](https://www.smooth-on.com/products/dragon-skin-30/) are options for an extra firm silicone, but I haven't used them myself yet.
+  
+I've tried [Dragon Skin FX-Pro](https://www.smooth-on.com/products/dragon-skin-fx-pro/), and have personally found it to be a little harder to work with than the standard line of Dragon Skin products. Using half a "part" `Slacker` in `10NV` gives comparable firmness (and nicer squishiness) to `FX-Pro`, in my opinion. Also, the reduction of pot life from 15 to 12 minutes is definitely noticeable when mixing multiple colors, and the "gel stage" curing progress makes it become viscous faster than I'd like. Your opinions might be different!  
+  
+Annoyingly, Smooth-On sells their silicone products by weight, but you'll likely be measuring and mixing by volume. Their 2lb trial size contains about 28 fluid ounces of silicone. Gallon kits cost about 6x as much as the trial kits, and contain 8x as much silicone. If you decide to get a gallon kit, *definitely* also buy one of their bucket openers -- prying the lids off is extremely difficult without one.  
+  
+Weighing some toys already in your collection may be helpful for getting a very rough idea of how much silicone you'll need for an overall size of design.  
+  
+I recommend initially buying enough silicone to pour at least two copies of your toy.
+  
+### Pigments  
+Unless you want your dong to be colorless and ghostly translucent,   you're going to need to add some pigments to the mix.
+  
+#### Silc-Pig  
+The [Silc-Pig](https://www.smooth-on.com/products/silc-pig/) line of pigments sold by Smooth-On are a good default option. The sample pack gives nine different colors, each in what will likely be sufficient quantity for prototyping and some production.  
+  
+`Silc-Pig` pigments are packaged as a viscous paste. An okay way to add these pigments to a silicone mix is to use a toothpick to transfer a few drops worth. However, this can be hard to accurately control, and you need to be careful to stir in the pigment very thoroughly to avoid unmixed lumps. 
+  
+A better method is to transfer the contents of each color in the sample pack into a small screw top jar, then dilute each color with at least 15ml of [Silicone Thinner](https://www.smooth-on.com/products/silicone-thinner/). The resulting liquid pigment can then be easily and accurately be added to a silicone mix using disposable plastic droppers. Shake each jar before use, since pigment may settle to the bottom.  
+
+[Silc-Pig Electric](https://www.smooth-on.com/products/silc-pig-electric/) UV reactive pigments are also available, and can produce excellent results. Unfortunately, they aren't yet sold as a sample pack, so you need to buy each color individually.  
+  
+Some colors of `Silc-Pig` come with an independent skin safety certification, but many do not. I am not an expert, but it is my *opinion* that all of these pigments are likely fine for use in sex toys -- they're widely used in skin-contact applications, and being mixed into silicone thoroughly encapsulates any pigment particles.
+
+#### Mica Pigments  
+Mica-based pigments are an excellent choice for silicone, and are sold as a fine powder. They usually have some amount of luster, shimmer, or sparkle, and are widely used in cosmetics.   
+  
+![Baggies of colorful mica pigments](images/MicaPigments.jpg)
+  
+Be cautious when shopping for mica pigments online. Many sellers  incorrectly describe fine plastic glitters as "mica". Similarly, "Cosmetics-Grade" is an extremely vague classification that describe a wide variety of different additives. A much more rigorous descriptor is the specific FDA application certifications for a particular ingredient.
+  
+I've purchased my mica pigments from [Elements Bath and Body](https://www.elementsbathandbody.com/Micas/), and have been very happy with their products.
+  
+For my own toys, I've gotten excellent results by combining both `Silc-Pig` and mica pigments to achieve target colors.  
+  
+## Mold-Making Materials  
+[Ease Release 200](https://www.smooth-on.com/products/ease-release-200/) is a spray-on mold release agent. Using a mold release is necessary to prevent various things from permanently sticking to each other when they shouldn't, both during creation of the production mold and for casting finished toys.
+  
+[XTC-3D](https://www.smooth-on.com/products/xtc-3d/) is a brush-on self-leveling epoxy used to coat the 3D printed primary model, smoothing over layer lines and other surface imperfections. 
+  
+[Rebound 25](https://www.smooth-on.com/products/rebound-25/) silicone is used for the brush-on glove mold.
+  
+[Thi-Vex](https://www.smooth-on.com/products/thi-vex/) is a thixotropic additive. Adding some `Thi-Vex` allows `Rebound 25` to be brushed on in a significantly thicker layer.
+
+[Plasti-Paste II](https://www.smooth-on.com/products/plasti-paste-ii/) is a glass-fiber reinforced epoxy used to make the mold support shell.
+    
+Unless your toy is huge, the smallest available size of each of these products should be sufficient to make at least one mold.
+ 
+## Consumables  
+  
+### Mixing containers
+Disposable containers are required to measure and mix silicones and epoxies. If a silicone is going to be vacuum degassed, the container needs to be at least 3x as large as the actual amount of silicone used. The disposable containers sold by Reynolds are excellent quality.
+    
+For reference, here's an outline of mixing container requirements for this project as written: 2x 30ml (not available from Reynolds), 6x 16oz, 2x 32oz, plus one or two more 32oz or 64oz containers for each toy poured. This assumes that measurement is done by addition in a single container wherever possible, and that every step goes right the first time. I recommend buying more containers than you think you need.
+   
+It's often possible to re-use mixing containers by allowing the contents to cure fully, then pulling any residue out as a single mass. However, this only works if the contents have been well-mixed and there's been no major spillage or contamination -- plan for containers being single-use when counting up how many to buy.
+  
+### Stir Sticks  
+Disposable wooden stir sticks (commonly used for mixing household paint) can work beautifully for mixing silicones. One significant advantage of wooden stir sticks is that their flat edges are well suited to scraping the sides of a container, ensuring thorough mixing. However, use caution, as low-quality sticks (including some I've purchased at Reynolds) may shed splinters -- contamination which can easily ruin a toy.   
+  
+As with mixing containers, buy more stir sticks than you think you'll need.   
+  
+Disposable plastic knives can be used as alternative to wooden stir sticks. Plastic knives are cheaper per unit, and carry no risk of splinters. However, their small size can make it more difficult to stir large mixes, and their shape isn't as well suited to scraping container bottoms.  
+  
+  
+### Other Stuff  
+Nitrile gloves should be worn whenever epoxies or silicones are being mixed or applied -- i.e, in almost every step of this process. Expect to go through a lot of them.  
+  
+Several small single-use chip brushes are required for applying the `XTC-3D` smoothing epoxy and the `Rebound 25` mold silicone.
+
+Some 220-grit sandpaper (or thereabout) is handy for cleaning up any irregularities in the 3D-printed primary model. Finer grits may also be useful for finish sanding between coats of `XTC-3D`. 
