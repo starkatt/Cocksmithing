@@ -14,8 +14,7 @@ Pictured throughout this guide is the making of my toy *Crush Depth*, designed a
 The source version of this document is located on [GitHub](https://github.com/starkatt/Cocksmithing/blob/master/cocksmithing.md]). This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
         
 If you have any questions or comments, please don't hesitate to reach out via email: cocksmith@fastest.cc  
-  
-
+  	 
 ## Process Overview    
 There are many, many ways to make high-quality silicone sex toys. The process given in this document is only one path.
   
@@ -32,7 +31,6 @@ Here's an extremely brief overview of the steps described:
 9. Toy complete!
 
 I highly recommend reading this document completely before getting started.
-  
 
 ## Time and Costs    
 The vast majority of the time and expense involved in this project is spent creating the initial production mold. Once the mold has been made, each copy of the toy requires relatively little effort and marginal cost.   
@@ -97,14 +95,15 @@ Make sure your printer is properly tuned and calibrated. Information about suita
 The finer the layer height, the less surface finish post-processing you'll need to do. Similarly, areas needing support material will require additional post-processing (though, note, designing to minimize undercut should already reduce the need for supports).  
   
 Depending on the way your modeling program is set up, it may take multiple iterations to get a correct scale factor for printing. 
-
-## Print Post-Processing and Finishing
-If you want to go directly from raw 3D print to production mold, there's nothing stopping you. However, I strongly encourage taking the time to refine the primary model to a quality surface finish. In particular, you probably don't want your silicone toy to have visible print layer lines. The casting process creates **exact replicas**, so the finish of your final toy will be exactly as good or as bad as the finish of your model.   
   
-### Preparation  
-Start by doing some rough sanding to clean up any crud left over from an imperfect print. Smooth off any bumps, lumps, stringers, rough center lines, etc.
+## Print Cleanup 
+Clean up any crud left over from an imperfect print. Trim or sand down any bumps, lumps, stringers, rough center lines, etc.  
+  
+If you're using a resin printer, make sure to *thoroughly* wash and clean the print. The residue of uncured resin can cause cure inhibition in silicone.
 
-### Smoothing with XTC-3D  
+## Smoothing with XTC-3D  
+If you want to go directly from raw 3D print to production mold, there's nothing stopping you. However, I strongly encourage taking the time to refine the primary model to a quality surface finish. In particular, you probably don't want your silicone toy to have visible print layer lines. The casting process creates **exact replicas**, so the finish of your final toy will be exactly as good or as bad as the finish of your model.     
+  
 `Smooth-On XTC-3D` is a self-leveling epoxy that can be brushed on to a 3D print and hardens to produce an exceptionally smooth, glossy surface. One small kit should be plenty for many coats on typical sized toys. 
   
 Each kit comes with a tiny mixing cup and one foam brush. So that you're not limited to one coat, I suggest getting additional graduated cups and brushes. I also prefer chip brushes over the included foam brush. The mixing cup *might* survive more than one use if you're lucky, but definitely not more than two.
@@ -136,7 +135,7 @@ If you can't (or don't want to) use `XTC-3D`, another way to smooth the toy is b
   
 Other attested ways of smoothing 3D prints include acetone vapor smoothing for ABS, and alternating sanding with coats of high-build primer. I haven't tried them.
 
-### *Extra Credit: Blasted Finish*  
+## *Extra Credit: Blasted Finish*  
 The `XTC-3D` coating leaves a glossy finish that is perfectly reasonable for a finished toy. However, professional silicone toys are generally matte, which may be slightly better for holding lube. 
  
 Bead-blasting is an excellent way to achieve a professional, uniform, anisotropic matte finish. Finish blasting might also be useful for clearing any remaining small surface imperfections.   
@@ -157,7 +156,7 @@ One mold can be reused many times.
 
 ## Applying a Glove Mold  
 
-### Preparation  
+### Model Preparation  
 
 Use hot glue to mount the primary model on a disposable, flat base surface. A sheet of cardboard works well.
 
@@ -271,7 +270,7 @@ Dry the mold completely before attempting a production pour. For faster drying, 
   
 # Pouring a Toy  
  
-## Preparation  
+## Pour Preparation  
 Assemble the production mold by placing the glove mold between the two halves of the support shell, then secure the halves together with rubber bands.   
     
 ![The production mold, ready to be filled](images/CrushDepthPourReady.jpg)
