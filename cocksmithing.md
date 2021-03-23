@@ -43,7 +43,7 @@ The cheapest viable vacuum chamber and pump is about $145 (including oil). If yo
   
 This project also uses a minimum of about $250 in materials, *if* everything goes right the first time.   
   
-Significantly more detail can be found in the [Tools and Materials](#tools-and-materials) section of this document.
+Significantly more detail can be found in the [Tools and Materials](#tools--materials) section of this document.
   
 Quality is asymptotic. Producing one okay-ish toy will require a certain baseline of time and money, but if you're anything like me you may feel compelled to revisit, revise, and refine various steps of the production process. Costs can add up faster than you might think.  
   
