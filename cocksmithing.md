@@ -11,7 +11,7 @@ Pictured throughout this guide is the making of my toy *Crush Depth*, designed a
 
 ![A finished pour of the Crush Depth dildo, in marbled purples and blues](images/CrushDepthFinishedNebula.jpg)    
   
-The source version of this document is located on [GitHub]([https://github.com/starkatt/Cocksmithing/blob/master/cocksmithing.md]). This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+The source version of this document is located on [GitHub](https://github.com/starkatt/Cocksmithing/blob/master/cocksmithing.md]). This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
         
 If you have any questions or comments, please don't hesitate to reach out via email: cocksmith@fastest.cc  
   
@@ -80,7 +80,7 @@ For convenience, here's a compact list of products used. Links in the leftmost c
 |   | [Dragon Skin NV10](https://www.smooth-on.com/products/dragon-skin-10-nv/) |          Toy Silicone         |      2lb Trial Kit     |             [$32.21](https://www.reynoldsam.com/product/silc-pig/)            |
 |   | [Silc-Pig](https://www.smooth-on.com/products/silc-pig/)                  |          Toy Pigment          | Sample Pack (9 colors) |             [$31.84](https://www.reynoldsam.com/product/silc-pig/)            |
 |   | [Exoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/)        |    Alternative Toy Silicone   |      2lb Trial Kit     |              [32.21](https://www.reynoldsam.com/product/ecoflex/)             |
-|   | [Mica Pigment](https://www.elementsbathandbody.com/Micas/)                |      Alternative Pigment      |           1oz          |            [$3.99/ea]((https://www.elementsbathandbody.com/Micas/])           |
+|   | [Mica Pigment](https://www.elementsbathandbody.com/Micas/)                |      Alternative Pigment      |           1oz          |            [$3.99/ea](https://www.elementsbathandbody.com/Micas/)           |
 |   |                                                                           |                               |                        |                                                                               |
 |   | **Moldmaking Materials**                                                  |                               |                        |                                                                               |
 |   | [Ease Release 200](https://www.smooth-on.com/products/ease-release-200/)  |       Mold Release Agent      |        12-Ounce        |         [$14.28](https://www.reynoldsam.com/product/ease-release-200/)        |
@@ -131,7 +131,7 @@ Vacuum pumps often ship without lubrication, and require the addition of special
 ### Other Tools
 Hot glue is used for multiple steps in the crafting process.  
 
-A cheap kitchen timer is incredibly helpful for tracking elapsed pot life. This isn't strictly necessary, but I highly prefer it to using a phone or making estimates based on start time.  
+A cheap kitchen timer is incredibly helpful for tracking elapsed pot life. This isn't strictly necessary, but I highly prefer it t using a phone or making estimates based on start time.  
   
 ## Toy Materials  
 ### Silicone  
@@ -270,7 +270,7 @@ If you want to go directly from raw 3D print to production mold, there's nothing
 Start by doing some rough sanding to clean up any crud left over from an imperfect print. Smooth off any bumps, lumps, stringers, rough center lines, etc.
 
 ### Smoothing with XTC-3D  
-``Smooth-On XTC-3D` is a self-leveling epoxy that can be brushed on to a 3D print and hardens to produce an exceptionally smooth, glossy surface. One small kit should be plenty for many coats on typical sized toys. 
+`Smooth-On XTC-3D` is a self-leveling epoxy that can be brushed on to a 3D print and hardens to produce an exceptionally smooth, glossy surface. One small kit should be plenty for many coats on typical sized toys. 
   
 Each kit comes with a tiny mixing cup and one foam brush. So that you're not limited to one coat, I suggest getting additional graduated cups and brushes. I also prefer chip brushes over the included foam brush. The mixing cup *might* survive more than one use if you're lucky, but definitely not more than two.
   
