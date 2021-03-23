@@ -49,19 +49,6 @@ Quality is asymptotic. Producing one okay-ish toy will require a certain baselin
   
 If you want to make very large toys, consider first getting started with something small to medium sized. Smaller pours are much easier to iterate and improve while still keeping your budget under control.
 
-## General Notes & Tips
-There are two primary types of silicone: platinum-cure and tin-cure (also known as condensation-cure). Although tin-cure silicone is less expensive, it produces acetic acid as a chemical byproduct of the curing process, and is unsuitable for sex toys. Therefore, only platinum-cure silicone should be used.
-    
-All of the silicones and epoxies used in this guide are measured and mixed by volume -- usually (but not always) a 1:1 mixture of Part A and Part B. The units "ounces" or "oz" are used  here exclusively to refer to US Fluid Ounces (approximately 30ml).
-  
-Once Part A and Part B are mixed, they immediately begin to chemically react and solidify. "Pot Life" is an *approximate* measure of how long the product stays workably fluid after mixing. "Cure Time" is a measurement of the time before the product has completely finished hardening.  
-  
-Pot life and cure time are both highly temperature sensitive. The listed times represent curing rates at a normal room temperature; curing will be significantly delayed at cooler temperatures, and accelerated at warmer ones. If your workspace is chilly (for example, an unheated garage), cure can take several times longer that the specification. I advise warming up whatever room you're working in to at least 65°F. 
-  
-The silicone casting process can produce a lot of waste. I like to keep a trash receptacle within arms' reach whenever I'm crafting. 
-
-Nitrile or vinyl gloves should be worn whenever silicones or epoxies are being mixed. While uncured silicones and epoxies are both unpleasant to get on your hands, epoxy in particular can cause severe reactions with repeated unprotected exposure. Latex gloves should not be used, as they may cause cure inhibition in silicone.    
-
 # Toy Design and Modeling
 The first step in crafting your own dildo is to create a positive primary model of the toy. This will be used to form the inner shape of a silicone glove mold negative. The main method discussed here will be to design the toy digitally and then 3d print a primary model for sculpting. Other options include hand-sculpting a model with clay, wax, sculpey, or similar.
   
@@ -122,8 +109,10 @@ Start by doing some rough sanding to clean up any crud left over from an imperfe
   
 Each kit comes with a tiny mixing cup and one foam brush. So that you're not limited to one coat, I suggest getting additional graduated cups and brushes. I also prefer chip brushes over the included foam brush. The mixing cup *might* survive more than one use if you're lucky, but definitely not more than two.
   
-Before you mix the epoxy, secure the primary model so that its base isn't resting flat on your work surface, to prevent epoxy from pooling and creating an "elephant's foot". Also, make sure you have a way to stably hold the model while brushing, and that it won't tip over while it cures. I've been able to meet all of these needs by hot gluing the model to a small block on top of a wooden stir stick. 
- 
+Before you mix the epoxy, secure the primary model so that its base isn't resting flat on your work surface, to prevent epoxy from pooling and creating an "elephant's foot". Also, make sure you have a way to stably hold the model while brushing, and that it won't tip over while it cures. I've been able to meet all of these needs by hot gluing the model to a small block on top of a wooden stir stick.  
+  
+Nitrile or vinyl gloves should be worn whenever silicones or epoxies are being mixed and applied. While uncured silicones and epoxies are both unpleasant to get on your hands, epoxy in particular can cause severe reactions with repeated unprotected exposure.
+
 ![The Primary model mounted as described](images/CrushDepthModelFixture.jpg)
   
 Mix the `XTC-3D` epoxy, **2A:1B**. A few ml is probably plenty. Pot life is 10 minutes.
@@ -426,7 +415,7 @@ A vacuum chamber and pump is used to degas the liquid silicone mixture before po
   
 A budget 3-gallon vacuum chamber and 4cfm vacuum pump can be purchased together online for about $130. That's about the lower limit of what I'd consider viable for vacuum degassing -- it will remove bubbles very slowly, and may perform suboptimally with more viscous silicones.  
   
-Purchasing a top-quality vacuum chamber and higher-performance US-made vacuum pump may cost at least twice as much. 
+Purchasing a top-quality vacuum chamber and higher-performance US-made vacuum pump may cost at least twice as much. Smooth-On recommends using a pump rated to at least 8cfm.
   
 Vacuum pumps often ship without lubrication, and require the addition of specialty vacuum pump oil. This is easy enough to find online -- don't run your pump without it.
   
@@ -436,8 +425,17 @@ Hot glue is used for multiple steps in the crafting process.
 A cheap kitchen timer is incredibly helpful for tracking elapsed pot life. This isn't strictly necessary, but I highly prefer it to using a phone or making estimates based on start time.  
   
 ## Toy Materials  
-### Silicone  
- 
+  
+### General Notes   
+There are two primary types of silicone: platinum-cure and tin-cure (also known as condensation-cure). Although tin-cure silicone is less expensive, it produces acetic acid as a chemical byproduct of the curing process, and is unsuitable for sex toys. Therefore, only platinum-cure silicone should be used.
+    
+All of the silicones and epoxies used in this guide are measured and mixed by volume -- usually (but not always) a 1:1 mixture of Part A and Part B. The units "ounces" or "oz" are used  here exclusively to refer to US Fluid Ounces (approximately 30ml). These silicones all have densities of approximately 1.1g/ml.
+  
+Once Part A and Part B are mixed, they immediately begin to chemically react and solidify. "Pot Life" is an *approximate* measure of how long the product stays workably fluid after mixing. "Cure Time" is a measurement of the time before the product has completely finished hardening.  
+  
+Pot life and cure time are both highly temperature sensitive. The listed times represent curing rates at a normal room temperature; curing will be significantly delayed at cooler temperatures, and accelerated at warmer ones. If your workspace is chilly (for example, an unheated garage), cure can take several times longer that the specification. I advise warming up whatever room you're working in to at least 65°F. 
+  
+### Toy Silicones 
 [Dragon Skin 10 NV](https://www.smooth-on.com/products/dragon-skin-10-nv/) is good default toy material to start with. This is a premium-quality, certified skin safe platinum-cure silicone. The hardness is Shore 10A, which I would describe as an excellent "medium" to "medium-firm" hardness for sex toys. Pot life is 15 minutes and cure time is 75 minutes. The product literature says "vacuum degassing is not necessary", but it my experience degassing *is mandatory* for bubble-free results. 
   
 [Slacker](https://www.smooth-on.com/products/slacker/) can be added to a silicone mixture to make a toy softer. I've gotten great results with adding some `Slacker` to `Dragon Skin 10NV` to produce a medium-soft product. In my opinion a good sweet spot is half a "part" of Slacker, i.e. 1A:1B:0.5S. Higher proportions of `Slacker` result in a toy that is softer, but unfortunately come with the side effect of producing an increasingly tacky surface. An added benefit of ``Slacker` is that it makes the toy feel "spongier" rather than rubbery when squished  -- it's hard to describe, but it does feel more fleshlike.  
@@ -510,8 +508,8 @@ Disposable plastic knives can be used as alternative to wooden stir sticks. Plas
   
   
 ### Other Stuff  
-Nitrile gloves should be worn whenever epoxies or silicones are being mixed or applied -- i.e, in almost every step of this process. Expect to go through a lot of them.  
-  
+Nitrile or vinyl gloves should be worn whenever epoxies or silicones are being mixed or applied -- i.e, in almost every step of this process. Expect to go through a lot of them. Latex gloves should not be used, as they may cause cure inhibition in silicone.   
+ 
 Several small single-use chip brushes are required for applying the `XTC-3D` smoothing epoxy and the `Rebound 25` mold silicone.
 
 Some 220-grit sandpaper (or thereabout) is handy for cleaning up any irregularities in the 3D-printed primary model. Finer grits may also be useful for finish sanding between coats of `XTC-3D`. 
