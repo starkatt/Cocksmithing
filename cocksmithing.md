@@ -30,8 +30,39 @@ Here's an extremely brief overview of the steps described:
 8. Pour the mixed silicone into the production mold, and allow to cure.
 9. Toy complete!
 
-I highly recommend reading this document completely before getting started.
+I highly recommend reading this document completely before getting started.  
+  
+#### Table of Contents:  
+1. [Introduction](#introduction)  
+	- 1.1 [Process Overview](#process-overview)
+	- 1.2 [Time and Costs](#time-and-costs)
+2. [Toy Design and Modeling](#toy-design-and-modeling)
+	- 2.1 [Design Constraints](#design-constraints)
+	- 2.2 [3D Modeling a Toy](#3d-modeling-a-toy)
+3. [Creating a Primary Model](#creating-a-primary-model)
+	- 3.1 [Print](#print)
+	- 3.2 [Print Cleanup](#print-cleanup)  
+	- 3.3 [Smoothing with XTC-3D](#smoothing-with-xtc-3d)
+	- 3.4 [*Extra Credit: Blasted Finish*](#extra-credit-blasted-finish)
+4. [Creating a Production Mold](#creating-a-production-mold)
+	- 4.1 [Applying a Glove Mold](#applying-a-glove-mold)
+	- 4.2 [Building a Support Shell](#building-a-support-shell)
+	- 4.3 [Finishing the Production Mold](#finishing-the-production-mold) 
+5. [Pouring a Toy](#pouring-a-toy)
+	- 5.1 [Pour Preparation](#pour-preparation)  
+	- 5.2 [Mixing](#mixing)
+	- 5.3 [Degassing](#degassing)
+	- 5.4 [Pouring](#Pouring)
+	- 5.5 [*Advanced: Marbled Pour*](#advanced-marbled-pour)  
+	- 5.6 [*Optional: Trimming*](#optional-trimming)
+6. [Tools & Materials](##tools--materials)
+	- 6.1 [Shopping List](#shopping-list)
+	- 6.2 [Tools](#tools)
+	- 6.3 [Toy Materials](#toy-materials)
+	- 6.4 [Mold-Making Materials](#mold-making-materials)
+	- 6.5 [Consumables](#consumables)
 
+	
 ## Time and Costs    
 The vast majority of the time and expense involved in this project is spent creating the initial production mold. Once the mold has been made, each copy of the toy requires relatively little effort and marginal cost.   
   
@@ -320,7 +351,7 @@ Once fully cured, the toy can be removed by peeling back and inverting the glove
   
 If everything went well, you are now holding your very own handcrafted dildo! Congratulations!  
     
-## Advanced: Marbled Pour  
+## *Advanced: Marbled Pour* 
 Marbling is a craft that is both complex and subtle. Getting premium quality marbling takes practice, and getting *consistently* premium marbling even moreso. I'm still in the process of improving my skills. The approach given here is only one method, and you may find value in experimenting with other techniques or doing additional research.  
   
 Begin by mixing Part A and Part B of your silicone as normal. You may want to use a little more silicone than for single-color pours. Divide the silicone into two (or more) containers, one for each color.  
