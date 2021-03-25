@@ -9,7 +9,7 @@ I've created this document with the hopes of providing fellow craftswomen (&etc)
   
 Pictured throughout this guide is the making of my toy *Crush Depth*, designed and handcrafted over the winter of 2020-2021.  
 
-![A finished pour of the Crush Depth dildo, in marbled purples and blues](images/CrushDepthFinishedNebula.jpg)    
+![A finished pour of the Crush Depth dildo, in marbled purples and blues](images/CrushDepthFinishedQueerSwirl.jpg)    
   
 The source version of this document is located on [GitHub](https://github.com/starkatt/Cocksmithing/blob/master/cocksmithing.md]). This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
         
