@@ -393,7 +393,7 @@ Smooth-On cautions that their products have a [limited shelf life](https://www.s
 ## Shopping List   
   
 For convenience, here's a compact list of products used. Links in the leftmost column go to the relevant product details pages on the Smooth-On website. Links in the price column go to the order page on Reynolds Advanced Materials, or to Elements Bath and Body for the mica pigments.   
-(Prices retrieved as of February 2021.)
+(Prices retrieved as of Spring 2021.)
   
 |   |                                                                           |                               |                        |                                                                               |
 |---|---------------------------------------------------------------------------|:-----------------------------:|:----------------------:|:-----------------------------------------------------------------------------:|
@@ -401,13 +401,13 @@ For convenience, here's a compact list of products used. Links in the leftmost c
 |   | [Dragon Skin NV10](https://www.smooth-on.com/products/dragon-skin-10-nv/) |          Toy Silicone         |      2lb Trial Kit     |             [$32.21](https://www.reynoldsam.com/product/silc-pig/)            |
 |   | [Silc-Pig](https://www.smooth-on.com/products/silc-pig/)                  |          Toy Pigment          | Sample Pack (9 colors) |             [$31.84](https://www.reynoldsam.com/product/silc-pig/)            |
 |   | [Exoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/)        |    Alternative Toy Silicone   |      2lb Trial Kit     |              [32.21](https://www.reynoldsam.com/product/ecoflex/)             |
-|   | [Mica Pigment](https://www.elementsbathandbody.com/Micas/)                |      Alternative Pigment      |           1oz          |            [$3.99/ea](https://www.elementsbathandbody.com/Micas/)           |
+|   | [Mica Pigment](https://www.elementsbathandbody.com/Micas/)                |      Alternative Pigment      |           1oz          |            [$3.99/ea]((https://www.elementsbathandbody.com/Micas/])           |
 |   |                                                                           |                               |                        |                                                                               |
 |   | **Moldmaking Materials**                                                  |                               |                        |                                                                               |
 |   | [Ease Release 200](https://www.smooth-on.com/products/ease-release-200/)  |       Mold Release Agent      |        12-Ounce        |         [$14.28](https://www.reynoldsam.com/product/ease-release-200/)        |
 |   | [XTC-3D](https://www.smooth-on.com/products/xtc-3d/)                      |        Smoothing Epoxy        |     6oz Trial Unit     |              [$11.21](https://www.reynoldsam.com/product/xtc-3d/)             |
 |   | [Rebound 25](https://www.smooth-on.com/products/rebound-25/)              |      Glove Mold Silicone      |      2lb Trial Kit     |          [$32.21](https://www.reynoldsam.com/product/rebound-series/)         |
-|   | [Thi-Vex](https://www.smooth-on.com/products/thi-vex/)                    |       Glove Mold Additive      |           1oz          |              [$3.30](https://www.reynoldsam.com/product/thi-vex/)             |
+|   | [Thi-Vex](https://www.smooth-on.com/products/thi-vex/)                    |       Gove Mold Additive      |           1oz          |              [$3.30](https://www.reynoldsam.com/product/thi-vex/)             |
 |   | [Plasti-Paste II](https://www.smooth-on.com/products/plasti-paste-ii/)    |         Support Shell         |     3.3lb Trial Kit    |         [$36.23](https://www.reynoldsam.com/product/plasti-paste-ii/)         |
 |   |                                                                           |                               |                        |                                                                               |
 |   | **Consumables**                                                           |                               |                        |                                                                               |
@@ -419,12 +419,12 @@ For convenience, here's a compact list of products used. Links in the leftmost c
 |   | 1" Chip Brushes                                                           |        Mold Application       |            8           |                                     $4.00                                     |
 |   | Nitrile Gloves                                                            |              PPE              |        100-pack        |                                      $20                                      |
 |   |                                                                           |                               |                        |                                                                               |
-|   | **Supplementals**                                                              |                               |                        |                                                                               |
+|   | **Supplementals**                                                         |                               |                        |                                                                               |
 |   | [Slacker](https://www.smooth-on.com/products/slacker/)                    |       Silicone Softener       |          Pint          |             [$20.79](https://www.reynoldsam.com/product/slacker/)             |
+|   | [Slo-Jo](https://www.smooth-on.com/products/slo-jo/)                      |        Extends Pot Life       |          Pint          |              [17.87](https://www.reynoldsam.com/product/slo-jo/)              |
 |   | [Silicone Thinner](https://www.smooth-on.com/products/silicone-thinner/)  |        Pigment Dilution       |          Pint          |         [$14.63](https://www.reynoldsam.com/product/silicone-thinner/)        |
 |   | 2oz Plastic Jar                                                           |    Diluted Silc-Pig Storage   |           12           |                                      $15                                      |
-|   | 0.5ml Plastic Dropper                                                     |       Silc-Pig Transfer       |           100          |                                       $4                                      |
-|   |                                                                           |                               |                        |                                                                               |
+|   | 1ml Plastic Dropper                                                       |       Silc-Pig Transfer       |           100          |                                       $4                                      |
 |   | 0.15ml Scoop                                                              |     Mica Pigment Transfer     |           10           | [$2.20](https://www.elementsbathandbody.com/.15cc-.15ml-Measuring-Scoop.html) |
       
 Mixing containers are listed as quantity: 10 because they're sold in packs of ten online. In brick & mortar Reynolds stores, mixing containers are available individually.
@@ -469,8 +469,10 @@ Pot life and cure time are both highly temperature sensitive. The listed times r
 [Dragon Skin 10 NV](https://www.smooth-on.com/products/dragon-skin-10-nv/) is good default toy material to start with. This is a premium-quality, certified skin safe platinum-cure silicone. The hardness is Shore 10A, which I would describe as an excellent "medium" to "medium-firm" hardness for sex toys. Pot life is 15 minutes and cure time is 75 minutes. The product literature says "vacuum degassing is not necessary", but it my experience degassing *is mandatory* for bubble-free results. 
   
 [Slacker](https://www.smooth-on.com/products/slacker/) can be added to a silicone mixture to make a toy softer. I've gotten great results with adding some `Slacker` to `Dragon Skin 10NV` to produce a medium-soft product. In my opinion a good sweet spot is half a "part" of Slacker, i.e. 1A:1B:0.5S. Higher proportions of `Slacker` result in a toy that is softer, but unfortunately come with the side effect of producing an increasingly tacky surface. An added benefit of ``Slacker` is that it makes the toy feel "spongier" rather than rubbery when squished  -- it's hard to describe, but it does feel more fleshlike.  
+  
+[Slo-Jo](https://www.smooth-on.com/products/slo-jo/) can be used to extend the pot life (and cure time) of platinum-cure silicones. This may be useful if you want extra time for complex color mixes. `Slo-Jo` is added by weight relative to Part B, which requires an accurate gram scale. Using 1% `Slo-Jo` extends the pot life of most silicones by 2-3x. 
     
-[Exoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/) can be used to create a toy that is very soft. Pot life is 45 minutes and cure time is 4 hours -- significantly longer than Dragon Skin. This may allow more time for complex color mixes. `Ecoflex 00-30` is also much less viscous than Dragon Skin which can make vacuum degassing easier.
+[Exoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/) can be used to create a toy that is very soft. Pot life is 45 minutes and cure time is 4 hours -- significantly longer than Dragon Skin. `Ecoflex 00-30` is also much less viscous than Dragon Skin which can make vacuum degassing easier.
       
 [Dragon Skin 20](https://www.smooth-on.com/products/dragon-skin-20/) and [Dragon Skin 30](https://www.smooth-on.com/products/dragon-skin-30/) are options for an extra firm silicone, but I haven't used them myself yet.
   
@@ -478,9 +480,7 @@ I've tried [Dragon Skin FX-Pro](https://www.smooth-on.com/products/dragon-skin-f
   
 Annoyingly, Smooth-On sells their silicone products by weight, but you'll likely be measuring and mixing by volume. Their 2lb trial size contains about 28 fluid ounces of silicone. Gallon kits cost about 6x as much as the trial kits, and contain 8x as much silicone. If you decide to get a gallon kit, *definitely* also buy one of their bucket openers -- prying the lids off is extremely difficult without one.  
   
-Weighing some toys already in your collection may be helpful for getting a very rough idea of how much silicone you'll need for an overall size of design.  
-  
-I recommend initially buying enough silicone to pour at least two copies of your toy.
+Weighing some toys already in your collection may be helpful for getting a very rough idea of how much silicone you'll need for an overall size of design. I recommend initially buying enough silicone to pour at least two copies of your toy.
   
 ### Pigments  
 Unless you want your dong to be colorless and ghostly translucent,   you're going to need to add some pigments to the mix.
