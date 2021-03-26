@@ -61,6 +61,7 @@ I highly recommend reading this document completely before getting started.
 	- 6.3 [Toy Materials](#toy-materials)
 	- 6.4 [Mold-Making Materials](#mold-making-materials)
 	- 6.5 [Consumables](#consumables)
+7. [Additional Contributors](#additional-contributors)
 
 	
 ## Time and Costs    
@@ -397,12 +398,11 @@ For convenience, here's a compact list of products used. Links in the leftmost c
   
 |   | **Toy Materials**                                                                  |                               |                        |                                                                               |
 |---|------------------------------------------------------------------------------------|:-----------------------------:|:----------------------:|:-----------------------------------------------------------------------------:|
-|   | [Dragon Skin NV10](https://www.smooth-on.com/products/dragon-skin-10-nv/)          |          Toy Silicone         |      2lb Trial Kit     |             [$32.21](https://www.reynoldsam.com/product/silc-pig/)            |
-|   | [Dragon Skin 10 Medium](https://www.smooth-on.com/products/dragon-skin-10-medium/) |    Alternative Toy Silicone   |      2lb Trial Kit     |           [$32.21](https://www.reynoldsam.com/product/dragon-skin/)           |
+|   | [Dragon Skin 10 Medium](https://www.smooth-on.com/products/dragon-skin-10-medium/) |          Toy Silicone         |      2lb Trial Kit     |           [$32.21](https://www.reynoldsam.com/product/dragon-skin/)           |
 |   | [Exoflex 00-50](https://www.smooth-on.com/products/ecoflex-00-50/)                 | Alternative Toy Silicone      |      2lb Trial Kit     |             [$32.21](https://www.reynoldsam.com/product/ecoflex/)             |
 |   | [Exoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/)                 |    Alternative Toy Silicone   |      2lb Trial Kit     |              [32.21](https://www.reynoldsam.com/product/ecoflex/)             |
 |   | [Silc-Pig](https://www.smooth-on.com/products/silc-pig/)                           |          Toy Pigment          | Sample Pack (9 colors) |             [$31.84](https://www.reynoldsam.com/product/silc-pig/)            |
-|   | [Mica Pigment](https://www.elementsbathandbody.com/Micas/)                         |      Alternative Pigment      |           1oz          |            [$3.99/ea](https://www.elementsbathandbody.com/Micas/)           |
+|   | [Mica Pigment](https://www.elementsbathandbody.com/Micas/)                         |      Alternative Pigment      |           1oz          |             [$3.99/ea](https://www.elementsbathandbody.com/Micas/)            |
 |   |                                                                                    |                               |                        |                                                                               |
 |   | **Moldmaking Materials**                                                           |                               |                        |                                                                               |
 |   | [Ease Release 200](https://www.smooth-on.com/products/ease-release-200/)           |       Mold Release Agent      |        12-Ounce        |         [$14.28](https://www.reynoldsam.com/product/ease-release-200/)        |
@@ -468,22 +468,23 @@ Once Part A and Part B are mixed, they immediately begin to chemically react and
   
 Pot life and cure time are both highly temperature sensitive. The listed times represent curing rates at a normal room temperature; curing will be significantly delayed at cooler temperatures, and accelerated at warmer ones. If your workspace is chilly (for example, an unheated garage), cure can take several times longer that the specification. I advise warming up whatever room you're working in to at least 65°F. 
   
-### Toy Silicones 
-[Dragon Skin 10 NV](https://www.smooth-on.com/products/dragon-skin-10-nv/) is good default toy material to start with. This is a premium-quality, certified skin safe platinum-cure silicone. The hardness is Shore 10A, which I would describe as an excellent "medium" to "medium-firm" hardness for sex toys. Pot life is 15 minutes and cure time is 75 minutes. The product literature says "vacuum degassing is not necessary", but it my experience degassing *is mandatory* for bubble-free results.  
-  
-[Dragon Skin 10 Medium](https://www.smooth-on.com/products/dragon-skin-10-medium/) may be a more reliable option than `10NV`, as Smooth-On notes that `10NV` can cause inhibition in other platinum-cure silicones. This *might* cause issues when sharing a mold between `10NV` and `Exoflex`. The downside of `10 Medium` is that vacuum degassing will be more difficult. 
-  
-[Ecoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/) is another platinum-cure silicone that can be used to create a very soft toy. Pot life is 45 minutes and cure time is 4 hours -- significantly longer than Dragon Skin. `Ecoflex 00-30` is also much less viscous than Dragon Skin which can make vacuum degassing easier.  
-  
-[Ecoflex 00-50](https://www.smooth-on.com/products/ecoflex-00-50/) produces a medium-soft toy. Pot life is 18 minutes and cure time is 3 hours.
+### Toy Silicones   
+
+[Dragon Skin 10 Medium](https://www.smooth-on.com/products/dragon-skin-10-medium/) is decent default toy material to start with. This is a premium-quality, certified skin safe platinum-cure silicone. The hardness is Shore 10A, which I would describe as an excellent "medium" to "medium-firm" for sex toys.  Pot life is 20 minutes and cure time is 5 hours.
+   
+[Ecoflex 00-50](https://www.smooth-on.com/products/ecoflex-00-50/) is another platinum-cure silicone, and produces a medium-soft toy. Pot life is 18 minutes and cure time is 3 hours.     
       
+[Ecoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/) can be used to create a very soft toy. Pot life is 45 minutes and cure time is 4 hours. `Ecoflex 00-30` is also much less viscous than other silicones, which can make vacuum degassing easier.    
+     
 [Dragon Skin 20](https://www.smooth-on.com/products/dragon-skin-20/) and [Dragon Skin 30](https://www.smooth-on.com/products/dragon-skin-30/) are options for an extra firm silicone, but I haven't used them myself yet.  
   
-[Slacker](https://www.smooth-on.com/products/slacker/) can be added to a silicone mixture to make a toy softer. I've gotten great results with adding some `Slacker` to `Dragon Skin 10NV` to produce a medium-soft product. In my opinion a good sweet spot is half a "part" of Slacker, i.e. 1A:1B:0.5S. Higher proportions of `Slacker` result in a toy that is softer, but unfortunately come with the side effect of producing an increasingly tacky surface. An added benefit of ``Slacker` is that it makes the toy feel "spongier" rather than rubbery when squished  -- it's hard to describe, but it does feel more fleshlike.      
+[Slacker](https://www.smooth-on.com/products/slacker/) can be added to a silicone mixture to make a toy softer. I've gotten great results with adding some `Slacker` to `Dragon Skin 10` to produce a medium-soft product. In my opinion a good sweet spot is half a "part" of Slacker, i.e. 1A:1B:0.5S. Higher proportions of `Slacker` result in a toy that is softer, but unfortunately come with the side effect of producing an increasingly tacky surface. An added benefit of ``Slacker` is that it makes the toy feel "spongier" rather than rubbery when squished  -- it's hard to describe, but it does feel more fleshlike.      
      
 [Slo-Jo](https://www.smooth-on.com/products/slo-jo/) can be used to extend the pot life (and cure time) of platinum-cure silicones. This may be useful if you want extra time for complex color mixes. `Slo-Jo` is added by weight relative to Part B, which requires an accurate gram scale. Using 1% `Slo-Jo` extends the pot life of most silicones by 2-3x. 
   
 I've tried [Dragon Skin FX-Pro](https://www.smooth-on.com/products/dragon-skin-fx-pro/), and have personally found it to be a little harder to work with than the standard line of Dragon Skin products. Your opinions might be different!  
+  
+Using [Dragon Skin 10NV](https://www.smooth-on.com/products/dragon-skin-10-nv/) is generally *not* recommended among serious craftsfolk. While the lowered viscosity does make it easier to remove bubbles, vacuum degassing is still  required. The hazard with `NV10` is that it has the potential to cause cure inhibition in other silicones. Sharing a mold between `NV10` and `Ecoflex` silicones may unpredictably cause incomplete cure in the `Ecoflex` which presents a possible safety issue.
   
 Annoyingly, Smooth-On sells their silicone products by weight, but you'll likely be measuring and mixing by volume. Their 2lb trial size contains about 28 fluid ounces of silicone. Gallon kits cost about 6x as much as the trial kits, and contain 8x as much silicone. If you decide to get a gallon kit, *definitely* also buy one of their bucket openers -- prying the lids off is extremely difficult without one.  
   
@@ -549,4 +550,8 @@ Nitrile or vinyl gloves should be worn whenever epoxies or silicones are being m
  
 Several small single-use chip brushes are required for applying the `XTC-3D` smoothing epoxy and the `Rebound 25` mold silicone.
 
-Some 220-grit sandpaper (or thereabout) is handy for cleaning up any irregularities in the 3D-printed primary model. Finer grits may also be useful for finish sanding between coats of `XTC-3D`. 
+Some 220-grit sandpaper (or thereabout) is handy for cleaning up any irregularities in the 3D-printed primary model. Finer grits may also be useful for finish sanding between coats of `XTC-3D`.   
+  
+# Additional Contributors  
+  
+Enormous thanks to Tiberius for his feedback on this guide, in particular for the suggestion that I use more direct language regarding safety risks of NV10 cure inhibition. His shop is [Fantasy Grove](https://www.fantasygrove.com/).
