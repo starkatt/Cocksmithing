@@ -92,7 +92,7 @@ This guide is written assuming the toy will have a flat, reasonably stable base.
 I also strongly recommend that all toys be designed with a flared base, to reduce risk of anything getting lost internally. Design the base of your toy with a bit of extra thickness, since it's easier to not have to pour silicone up to the very brim of the mold.
   
 ### No Excessive Undercut  
-An undercut is any feature that prevents the toy being removed from the mold. With the single-piece glove mold technique described in this document, this is generally any shape where a toy widens towards the tip. Since the glove mold is flexible there is some tolerance for small amounts of undercut like bumps and ridges, but extreme undercuts such as a buttplug shape would require use of a block mold.
+An undercut is any feature that prevents the toy being removed from the mold. With the single-piece glove mold technique described in this document, this is generally any shape where a toy widens towards the tip. Since the glove mold is flexible there is some tolerance for small amounts of undercut like bumps and ridges, but extreme undercuts such as a buttplug shape would require use of a two-part block mold.
   
 ![An illustration of a toy design which creates mold undercut](images/undercut.png)  
   
