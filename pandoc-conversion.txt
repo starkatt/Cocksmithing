@@ -1,0 +1,1 @@
+pandoc cocksmithing-pdf-source.txt -o cocksmithing.pdf -V fontsize=10pt --variable urlcolor=blue --dpi 150
