@@ -469,7 +469,7 @@ Pot life and cure time are both highly temperature sensitive. The listed times r
 ### Toy Silicones 
 [Dragon Skin 10 NV](https://www.smooth-on.com/products/dragon-skin-10-nv/) is good default toy material to start with. This is a premium-quality, certified skin safe platinum-cure silicone. The hardness is Shore 10A, which I would describe as an excellent "medium" to "medium-firm" hardness for sex toys. Pot life is 15 minutes and cure time is 75 minutes. The product literature says "vacuum degassing is not necessary", but it my experience degassing *is mandatory* for bubble-free results.  
   
-Smooth-On notes that `10NV` can cause inhibition in other platinum-cure silicones. While I haven't personally had this problem sharing molds between `NV10` and `Ecoflex` silicones, it may be safer to use [Dragon Skin 10 Medium](https://www.smooth-on.com/products/dragon-skin-10-medium/) instead. 
+[Dragon Skin 10 Medium](https://www.smooth-on.com/products/dragon-skin-10-medium/) may be a more reliable option than `10NV`, as Smooth-On notes that `10NV` can cause inhibition in other platinum-cure silicones. This *might* cause issues when sharing a mold between `10NV` and `Exoflex`. The downside of `10 Medium` is that vacuum degassing will be more difficult. 
   
 [Ecoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/) is another platinum-cure silicone that can be used to create a very soft toy. Pot life is 45 minutes and cure time is 4 hours -- significantly longer than Dragon Skin. `Ecoflex 00-30` is also much less viscous than Dragon Skin which can make vacuum degassing easier.  
   
