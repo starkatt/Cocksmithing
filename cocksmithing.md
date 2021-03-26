@@ -428,6 +428,8 @@ For convenience, here's a compact list of products used. Links in the leftmost c
 |   | 1ml Plastic Dropper                                                                |       Silc-Pig Transfer       |           100          |                                       $4                                      |
 |   | 0.15ml Scoop                                                                       |     Mica Pigment Transfer     |           10           | [$2.20](https://www.elementsbathandbody.com/.15cc-.15ml-Measuring-Scoop.html) |
       
+Toy silicone quantities are listed as "trial kit" which is enough to pour 1-2  moderately-sized dongs, but the actual amount you need will depend on the overall size of your design. 
+    
 Mixing containers are listed as quantity: 10 because they're sold in packs of ten online. In brick & mortar Reynolds stores, mixing containers are available individually.
     
 ## Tools  
