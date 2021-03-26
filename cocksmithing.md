@@ -121,9 +121,11 @@ You may want to slightly exaggerate the depth of any texturing or detailing, sin
 ## Print 
 Make sure your printer is properly tuned and calibrated. Information about suitable printers can be found in the [Tools](#3d-printer) section.
   
-3D print your toy.      
+3D print your toy.  
     
 The finer the layer height, the less surface finish post-processing you'll need to do. Similarly, areas needing support material will require additional post-processing (though, note, designing to minimize undercut should already reduce the need for supports).  
+  
+If you're using an SLA (resin) printer, you also need to clean and UV post-cure your print. [Smooth-On recommends](https://www.smooth-on.com/support/faq/210/) a dedicated UV cure chamber or a minimum of six hours in direct sunlight.
   
 Depending on the way your modeling program is set up, it may take multiple iterations to get a correct scale factor for printing. 
   
