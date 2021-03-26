@@ -124,15 +124,13 @@ Make sure your printer is properly tuned and calibrated. Information about suita
 3D print your toy.  
     
 The finer the layer height, the less surface finish post-processing you'll need to do. Similarly, areas needing support material will require additional post-processing (though, note, designing to minimize undercut should already reduce the need for supports).  
-  
-If you're using an SLA (resin) printer, you also need to clean and UV post-cure your print. [Smooth-On recommends](https://www.smooth-on.com/support/faq/210/) a dedicated UV cure chamber or a minimum of six hours in direct sunlight.
-  
+
 Depending on the way your modeling program is set up, it may take multiple iterations to get a correct scale factor for printing. 
   
 ## Print Cleanup 
 Clean up any crud left over from an imperfect print. Trim or sand down any bumps, lumps, stringers, rough center lines, etc.  
   
-If you're using a resin printer, make sure to *thoroughly* wash and clean the print. The residue of uncured resin can cause cure inhibition in silicone.
+If you're using an SLA (resin) printer, you also need to clean and UV post-cure your print. [Smooth-On recommends](https://www.smooth-on.com/support/faq/210/) a dedicated UV cure chamber or a minimum of six hours in direct sunlight.
 
 ## Smoothing with XTC-3D  
 If you want to go directly from raw 3D print to production mold, there's nothing stopping you. However, I strongly encourage taking the time to refine the primary model to a quality surface finish. In particular, you probably don't want your silicone toy to have visible print layer lines. The casting process creates **exact replicas**, so the finish of your final toy will be exactly as good or as bad as the finish of your model.     
