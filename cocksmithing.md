@@ -30,8 +30,8 @@ Here's an extremely brief overview of the steps described:
 8. Pour the mixed silicone into the production mold, and allow to cure.
 9. Toy complete!
 
-I highly recommend reading this document completely before getting started.  
-  
+I highly recommend reading this document completely before getting started.   
+ 
 #### Table of Contents:  
 1. [Introduction](#introduction)  
 	- 1.1 [Process Overview](#process-overview)
@@ -61,9 +61,8 @@ I highly recommend reading this document completely before getting started.
 	- 6.3 [Toy Materials](#toy-materials)
 	- 6.4 [Mold-Making Materials](#mold-making-materials)
 	- 6.5 [Consumables](#consumables)
-7. [Additional Contributors](#additional-contributors)
-
-	
+7. [Additional Contributors](#additional-contributors)  
+  	
 ## Time and Costs    
 The vast majority of the time and expense involved in this project is spent creating the initial production mold. Once the mold has been made, each copy of the toy requires relatively little effort and marginal cost.   
   
@@ -369,7 +368,7 @@ Then, mix together the colors *just a little bit*. Do not over-mix -- literally 
   
 Vacuum degas the silicone a second time. Any remaining air will bubble up, and in the process cause substantial additional mixing and blending of the colors.  
   
-Pour. For best results, clearly-defined colors should run down the stream of silicone as long, parallel stripes. To distribute colors more evenly, rotate to pour from different directions around the mold, while still aiming the stream into the same point in the center. This can be aided be placing the mold and bucket on a turntable to allow for 360° rotation.  
+Pour. For best results, clearly-defined colors should run down the stream of silicone as long, parallel stripes. To distribute colors more evenly, rotate to pour from different directions around the mold, while still aiming the stream into the same point in the center. This can be aided by placing the mold and bucket on a turntable to allow for 360° rotation.  
   
 Try not to let the stream of silicone run down the sides of the molds. Doing so will result in smeared vertical streaks.
     
@@ -484,7 +483,7 @@ Pot life and cure time are both highly temperature sensitive. The listed times r
   
 I've tried [Dragon Skin FX-Pro](https://www.smooth-on.com/products/dragon-skin-fx-pro/), and have personally found it to be a little harder to work with than the standard line of Dragon Skin products. Your opinions might be different!  
   
-Using [Dragon Skin 10NV](https://www.smooth-on.com/products/dragon-skin-10-nv/) is generally *not* recommended among serious craftsfolk. While the lowered viscosity does make it easier to remove bubbles, vacuum degassing is still  required. The hazard with `NV10` is that it has the potential to cause cure inhibition in other silicones. Sharing a mold between `NV10` and `Ecoflex` silicones may unpredictably cause incomplete cure in the `Ecoflex` which presents a possible safety issue.
+Using [Dragon Skin 10NV](https://www.smooth-on.com/products/dragon-skin-10-nv/) is generally *not* recommended among serious craftsfolk. While the lowered viscosity does make it easier to remove bubbles, vacuum degassing is still  required. The hazard with `10NV` is that it has the potential to cause cure inhibition in other silicones. Sharing a mold between `10NV` and `Ecoflex` silicones may unpredictably cause incomplete cure in the `Ecoflex` which presents a possible safety issue.
   
 Annoyingly, Smooth-On sells their silicone products by weight, but you'll likely be measuring and mixing by volume. Their 2lb trial size contains about 28 fluid ounces of silicone. Gallon kits cost about 6x as much as the trial kits, and contain 8x as much silicone. If you decide to get a gallon kit, *definitely* also buy one of their bucket openers -- prying the lids off is extremely difficult without one.  
   
@@ -538,6 +537,7 @@ For reference, here's an outline of mixing container requirements for this proje
 It's often possible to re-use mixing containers by allowing the contents to cure fully, then pulling any residue out as a single mass. However, this only works if the contents have been well-mixed and there's been no major spillage or contamination -- plan for containers being single-use when counting up how many to buy.
   
 ### Stir Sticks  
+
 Disposable wooden stir sticks (commonly used for mixing household paint) can work beautifully for mixing silicones. One significant advantage of wooden stir sticks is that their flat edges are well suited to scraping the sides of a container, ensuring thorough mixing. However, use caution, as low-quality sticks (including some I've purchased at Reynolds) may shed splinters -- contamination which can easily ruin a toy.   
   
 As with mixing containers, buy more stir sticks than you think you'll need.   
@@ -554,4 +554,4 @@ Some 220-grit sandpaper (or thereabout) is handy for cleaning up any irregularit
   
 # Additional Contributors  
   
-Enormous thanks to Tiberius for his feedback on this guide, in particular for the suggestion that I use more direct language regarding safety risks of NV10 cure inhibition. His shop is [Fantasy Grove](https://www.fantasygrove.com/).
+Enormous thanks to Tiberius for his feedback on this guide, in particular for the suggestion that I use more direct language regarding safety risks of 10NV cure inhibition. His shop is [Fantasy Grove](https://www.fantasygrove.com/).
