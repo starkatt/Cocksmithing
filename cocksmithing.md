@@ -364,7 +364,7 @@ Pour the different colors back into a single container. So far I've gotten best 
   
 Then, mix together the colors *just a little bit*. Do not over-mix -- literally only two or three turns/strokes is plenty.
 
-![Black, blue, and pink silicone roughly swirled in a mixing container](images/marble_mix.jpg)  
+![Black and gold silicone roughly swirled in a mixing container](images/marble_mix_gold.jpg)  
   
 Vacuum degas the silicone a second time. Any remaining air will bubble up, and in the process cause substantial additional mixing and blending of the colors.  
   
