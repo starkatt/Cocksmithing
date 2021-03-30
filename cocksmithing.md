@@ -466,15 +466,20 @@ Once Part A and Part B are mixed, they immediately begin to chemically react and
   
 Pot life and cure time are both highly temperature sensitive. The listed times represent curing rates at a normal room temperature; curing will be significantly delayed at cooler temperatures, and accelerated at warmer ones. If your workspace is chilly (for example, an unheated garage), cure can take several times longer that the specification. I advise warming up whatever room you're working in to at least 65°F. 
   
-### Toy Silicones   
-
-[Dragon Skin 10 Medium](https://www.smooth-on.com/products/dragon-skin-10-medium/) is decent default toy material to start with. This is a premium-quality, certified skin safe platinum-cure silicone. The hardness is Shore 10A, which I would describe as an excellent "medium" to "medium-firm" for sex toys.  Pot life is 20 minutes and cure time is 5 hours.
-   
-[Ecoflex 00-50](https://www.smooth-on.com/products/ecoflex-00-50/) is another platinum-cure silicone, and produces a medium-soft toy. Pot life is 18 minutes and cure time is 3 hours.     
+### Toy Silicones  
+  
+The primary materials used for toymaking are the [Ecoflex](https://www.smooth-on.com/product-line/ecoflex/) and [Dragon Skin](https://www.smooth-on.com/product-line/dragon-skin/) lines from Smooth-On. These are premium-quality, body-safe platinum-cure silicones.  
+  
+  
+[Ecoflex 00-50](https://www.smooth-on.com/products/ecoflex-00-50/) is a good default toy material to start with. Finished toys made with `Ecoflex 00-50` have a medium to medium-soft firmness.  Pot life is 18 minutes and cure time is 3 hours.     
       
-[Ecoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/) can be used to create a very soft toy. Pot life is 45 minutes and cure time is 4 hours. `Ecoflex 00-30` is also much less viscous than other silicones, which can make vacuum degassing easier.    
+[Ecoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/) can be used to create a very soft toy. Pot life is 45 minutes and cure time is 4 hours. `Ecoflex 00-30` is also a bit lower in viscosity, which can make vacuum degassing easier.  
+  
+[Dragon Skin 10 Medium](https://www.smooth-on.com/products/dragon-skin-10-medium/) cures to a firmness of Shore 10A, which I would describe as medium-firm.  Pot life is 20 minutes and cure time is 5 hours. If you want more working time, [Dragon Skin 10 Slow](https://www.smooth-on.com/products/dragon-skin-10-slow/) is also available, which has a pot life of 45 minutes and a cure time of 7 hours. These `Dragon Skin` silicones are more viscous than the `Ecoflex` line, which can make stirring and vacuum degassing more difficult. 
      
 [Dragon Skin 20](https://www.smooth-on.com/products/dragon-skin-20/) and [Dragon Skin 30](https://www.smooth-on.com/products/dragon-skin-30/) are options for an extra firm silicone, but I haven't used them myself yet.  
+  
+If you go to a Reynolds Advanced Materials physical location, they should have sample disks of all silicones available. It might be a good idea to ask for a set of disks on your first visit, which can then be used as reference guides at home.
      
 [Slo-Jo](https://www.smooth-on.com/products/slo-jo/) can be used to extend the pot life (and cure time) of platinum-cure silicones. This may be useful if you want extra time for complex color mixes. `Slo-Jo` is added by weight relative to Part B, which requires an accurate gram scale. Using 1% `Slo-Jo` extends the pot life of most silicones by 2-3x. 
   
