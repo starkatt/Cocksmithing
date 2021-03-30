@@ -420,7 +420,6 @@ For convenience, here's a compact list of products used. Links in the leftmost c
 |   | Nitrile Gloves                                                                     |              PPE              |        100-pack        |                                      $20                                      |
 |   |                                                                                    |                               |                        |                                                                               |
 |   | **Supplementals**                                                                  |                               |                        |                                                                               |
-|   | [Slacker](https://www.smooth-on.com/products/slacker/)                             |       Silicone Softener       |          Pint          |             [$20.79](https://www.reynoldsam.com/product/slacker/)             |
 |   | [Slo-Jo](https://www.smooth-on.com/products/slo-jo/)                               |        Extends Pot Life       |          Pint          |              [17.87](https://www.reynoldsam.com/product/slo-jo/)              |
 |   | [Silicone Thinner](https://www.smooth-on.com/products/silicone-thinner/)           |        Pigment Dilution       |          Pint          |         [$14.63](https://www.reynoldsam.com/product/silicone-thinner/)        |
 |   | 2oz Plastic Jar                                                                    |    Diluted Silc-Pig Storage   |           12           |                                      $15                                      |
@@ -476,8 +475,6 @@ Pot life and cure time are both highly temperature sensitive. The listed times r
 [Ecoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/) can be used to create a very soft toy. Pot life is 45 minutes and cure time is 4 hours. `Ecoflex 00-30` is also much less viscous than other silicones, which can make vacuum degassing easier.    
      
 [Dragon Skin 20](https://www.smooth-on.com/products/dragon-skin-20/) and [Dragon Skin 30](https://www.smooth-on.com/products/dragon-skin-30/) are options for an extra firm silicone, but I haven't used them myself yet.  
-  
-[Slacker](https://www.smooth-on.com/products/slacker/) can be added to a silicone mixture to make a toy softer. I've gotten great results with adding some `Slacker` to `Dragon Skin 10` to produce a medium-soft product. In my opinion a good sweet spot is half a "part" of Slacker, i.e. 1A:1B:0.5S. Higher proportions of `Slacker` result in a toy that is softer, but unfortunately come with the side effect of producing an increasingly tacky surface. An added benefit of ``Slacker` is that it makes the toy feel "spongier" rather than rubbery when squished  -- it's hard to describe, but it does feel more fleshlike.      
      
 [Slo-Jo](https://www.smooth-on.com/products/slo-jo/) can be used to extend the pot life (and cure time) of platinum-cure silicones. This may be useful if you want extra time for complex color mixes. `Slo-Jo` is added by weight relative to Part B, which requires an accurate gram scale. Using 1% `Slo-Jo` extends the pot life of most silicones by 2-3x. 
   
