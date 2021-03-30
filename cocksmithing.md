@@ -251,7 +251,7 @@ Thoroughly spray down the surface of the glove mold, scaffolding fin, and base s
 ### Support Shell, Side A
 Each half of the support shell can be made using `Plasti-Paste II`. This is a fiber-reinforced epoxy designed specifically for creating mold support shells. Pot life is 10 minutes and cure time is 90 minutes.  
   
-Pay attention to the mixing instructions for the plasti-paste --  shake part A thoroughly before mixing, and measure out Parts A and B individually in separate containers, **1A:2B**. Stir until the mixture is streak-free. 
+Pay attention to the mixing instructions for the plasti-paste --  shake part A thoroughly before mixing, and measure out Parts A and B individually in separate containers, **1A:2B**. Stir until the mixture is streak-free. As with the `XTC-3D` epoxy, wearing protective gloves is mandatory.
   
 Spread the epoxy on the selected side of the glove mold using a wooden stir stick. The plasti-paste is extremely sticky, so be careful.
   
@@ -259,7 +259,7 @@ Make sure to spread the plasti-paste a little ways up the scaffolding fin, all a
   
 Also, spread a "wing" of plasti-paste far enough out along the base so that it will be able to span the mouth of a bucket for the final casting step. This is where it becomes helpful to have previously made corresponding indicator marks on the base surface.   
   
-As the plasti-paste starts to cure, scrape along the edges of the application to create a clean and sharp perimeter. This isn't *entirely* necessary, but makes the support shell more professional.  
+As the plasti-paste starts to cure, scrape along the edges of the application to create a clean and distinct perimeter. This isn't *entirely* necessary, but makes the support shell more professional. 
   
 ![Side A of the support shell](images/CrushDepthSupportShellA.jpg)
 
@@ -281,7 +281,7 @@ Once Side B of the support shell has completely cured, the primary model can fin
   
 Begin by pulling the base surface away from the mold assembly.  
   
-Next, separate the two halves of the support shell. Even if you built the shell properly, there's a very good chance that the two halves will be stuck together. You'll probably need to pry them apart, and it might take more force than you're expecting.  
+Next, separate the two halves of the support shell. Even if you built the shell properly, there's a very good chance that the two halves will be stuck together. You'll probably need to pry them apart, and it might take more force than you're expecting 
   
 Now you can pull the primary model out of the glove mold. To do this, you'll probably need to invert the glove mold as you pull.  
   
