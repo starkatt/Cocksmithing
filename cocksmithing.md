@@ -453,7 +453,9 @@ Vacuum pumps often ship without lubrication, and require the addition of special
 ### Other Tools
 Hot glue is used for multiple steps in the crafting process.  
 
-A cheap kitchen timer is incredibly helpful for tracking elapsed pot life. This isn't strictly necessary, but I highly prefer it to using a phone or making estimates based on start time.  
+A cheap kitchen timer is incredibly handy for tracking elapsed pot life. This isn't strictly necessary, but I highly prefer it to using a phone or making estimates based on start time.  
+  
+For marbled pours, placing the mold on a "lazy susan" turntable can allow for unrestricted rotation. This is optional, but can help with even distribution of colors around the different sides of the toy.  
   
 ## Toy Materials  
   
