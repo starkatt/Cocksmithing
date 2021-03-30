@@ -505,16 +505,20 @@ A better method is to transfer the contents of each color in the sample pack int
 
 [Silc-Pig Electric](https://www.smooth-on.com/products/silc-pig-electric/) UV reactive pigments are also available, and can produce excellent results. Unfortunately, they aren't yet sold as a sample pack, so you need to buy each color individually.  
   
-Some colors of `Silc-Pig` come with an independent skin safety certification, but many do not. I am not an expert, but it is my *opinion* that all of these pigments are likely fine for use in sex toys -- they're widely used in skin-contact applications, and being mixed into silicone thoroughly encapsulates any pigment particles.
+Some colors of `Silc-Pig` come with an independent skin safety certification, but many do not. I am not an expert, but it is my *opinion* that all of these pigments are likely fine for use in sex toys -- they're widely used in skin-contact applications and among toymakers, and being mixed into silicone thoroughly encapsulates any pigment particles.
 
-#### Mica Pigments  
-Mica-based pigments are an excellent choice for silicone, and are sold as a fine powder. They usually have some amount of luster, shimmer, or sparkle, and are widely used in cosmetics.   
+#### Micas & Other Pigments  
+Mica-based pigments are an excellent choice for silicone, and are sold as a fine powder. They usually have some amount of luster, shimmer, or sparkle, and are widely used in cosmetics. Toys poured with mica pigments will also often have subtle cloudlike variegation within each color.
   
 ![Baggies of colorful mica pigments](images/MicaPigments.jpg)
+
+I've purchased my mica pigments from [Elements Bath and Body](https://www.elementsbathandbody.com/Micas/), and have been very happy with their products.  
   
-Be cautious when shopping for mica pigments online. Many sellers  incorrectly describe fine plastic glitters as "mica". Similarly, "Cosmetics-Grade" is an extremely vague classification that describe a wide variety of different additives. A much more rigorous descriptor is the specific FDA application certifications for a particular ingredient.
+Be cautious when shopping for micas or other pigments online. Not all sellers provide honest or complete listings. The terms "cosmetics-grade" and "non-toxic" are extremely vague, and can used to describe a wide variety of different additives.
   
-I've purchased my mica pigments from [Elements Bath and Body](https://www.elementsbathandbody.com/Micas/), and have been very happy with their products.
+A more rigorous standard is checking against specific FDA application certifications for a particular pigment. While the FDA doesn't have a list of pigments that are safe for sex toys, they do maintain a listing of cosmetics pigments for [eye and lip applications](https://www.fda.gov/cosmetics/cosmetic-ingredient-names/color-additives-permitted-use-cosmetics), and a somewhat more permissive listing for [food-contact polymers](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=178.3297). I'm not sufficiently knowledgeable to know which of those lists is more applicable for toy safety, or even to say definitively whether silicone encapsulation already renders off-list pigments safely inert.
+   
+Coarse plastic glitters should never be used, as their edges can cut and degrade the silicones they're embedded in.
   
 For my own toys, I've gotten excellent results by combining both `Silc-Pig` and mica pigments to achieve target colors.  
   
