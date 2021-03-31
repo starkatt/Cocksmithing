@@ -335,8 +335,9 @@ Your vacuum chamber should have two valves -- a line valve between the vacuum ch
 2. Turn on the vacuum pump.  
 3. Close the vent valve. After a moment, the vacuum chamber gauge should start indicating a pressure drop. If this doesn't occur, try re-seating the chamber lid.  
 4. As the pressure drops, the silicone mixture will start to bubble vigorously. The surface of the silicone will rise to approximately three times its original volume, crest, and then fall.
-5. Allow the silicone to fully degas. The product documentation for Dragon Skin says to only degas for 90 seconds, but with my low-quality pump I've gotten better results by waiting until bubbling stops completely. 
-6. Turn off the pump. Release the vacuum by *slowly* opening the vent valve. Seriously, do this slowly -- air rushes into vacuum at approximately the speed of sound, and can easily cause splashing.
+5. Allow the silicone to fully degas. The product documentation from Smooth-On says to only degas for 90 seconds after the silicone falls, but with my low-quality pump I've gotten better results in viscous silicones by waiting until bubbling stops completely.
+6. Close the line valve, then turn off the pump. Inadvertently leaving the line valve open can suck vacuum oil out of the pump and all the way into the vacuum chamber.
+7. Release the vacuum by *slowly* opening the vent valve. Seriously, do this slowly -- air rushes into vacuum at approximately the speed of sound, and can easily cause splashing.
 
 After the silicone mixture has been fully degassed, do not stir it in any way or bubbles will be reintroduced.   
   
