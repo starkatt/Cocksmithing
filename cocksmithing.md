@@ -197,7 +197,7 @@ To prevent silicone from creeping underneath, use more hot glue to seal around t
     
 ![Primary model mounted on a cardboard base with a bead of hot glue around the toe](images/CrushDepthModelFootSeal.jpg)
       
-Spray the primary model and base surface with `Ease Release 200`. If this isn't done, the glove mold will adhere to the primary model and probably be unusable. The product literature for `Ease Release` says to use use a multi-step process of spraying, brushing, and spraying again, but I haven't found that to be necessary -- a light mist that covers all surfaces is sufficient. Too much mold release can actually result in a finished toy with an unpleasant, sticky coating that is difficult to wash off.  
+Spray the primary model and base surface with `Ease Release 200`. If this isn't done, the glove mold will adhere to the primary model and probably be unusable. The product literature for `Ease Release` says to use use a multi-step process of spraying, brushing, and spraying again, but I haven't found that to be necessary -- a light mist that covers all surfaces is sufficient.
   
 ### First Layer
 The glove mold itself will be made using `Rebound 25`. This is a flexible silicone that's designed to be applied to vertical surfaces. Pot life is 20 minutes and cure time is six hours.   
@@ -302,12 +302,14 @@ Dry the mold completely before attempting a production pour. For faster drying, 
 # Pouring a Toy  
  
 ## Pour Preparation  
+Before pouring a toy, it is *critical* that mold release spray be applied to the inside of the mold -- if no mold release is used, the glove mold and the toy will adhere together, potentially ruining both. For the very first use of a new mold, turn the mold inside-out and mist with a continuous layer of `Ease Release 200` spray.
+  
+For pours after the first, not as much release is necessary, and too much mold release can leave a residue that is sticky and hard to wash off. I find a short spritz down the throat of the mold and around the base to be sufficient, though this may depend on the complexity of your toy shape.
+      
 Assemble the production mold by placing the glove mold between the two halves of the support shell, then secure the halves together with rubber bands.   
     
 ![The production mold, ready to be filled](images/CrushDepthPourReady.jpg)
-    
-Spray the inside of the mold with a small amount of `Ease Release 200` mold release. *This is critical* -- if no mold release is used, the glove mold and the toy will adhere together, potentially ruining both. However, using an excessive amount of mold release results in a finished toy covered in residue that is sticky and hard to wash off. A short spritz directed down the inside of the mold is about right.  
-  
+ 
 Lay out all of the materials you'll need before starting -- silicone, stirring tools, pigments, droppers/scoops, timer, a few paper towels to clean up any drips, etc. It's not fun to be scrambling to find supplies while the pot life is expiring.
   
 Test the vacuum chamber and pump ahead of time, practicing the degassing sequence.  
@@ -412,6 +414,7 @@ For convenience, here's a compact list of products used. Links in the leftmost c
 |   |                                                                                    |                               |                        |                                                                               |
 |   | **Consumables**                                                                    |                               |                        |                                                                               |
 |   | 1oz Mixing Container                                                               |         XTC-3D mixing         |           10           |                                     $5.00                                     |
+
 |   | 16oz Mixing Container                                                              |        Silicone Mixing        |           10           |         [$6.31](https://www.reynoldsam.com/product/mixing-containers/)        |
 |   | 32oz Mixing Container                                                              |        Silicone Mixing        |           10           |         [$7.60](https://www.reynoldsam.com/product/mixing-containers/)        |
 |   | 64oz Mixing Container                                                              | Silicone Mixing (larger toys) |           10           |        [$18.94](https://www.reynoldsam.com/product/mixing-containers/)        |
