@@ -404,7 +404,7 @@ For convenience, here's a compact list of products used. Links in the leftmost c
 |   | [Exoflex 00-50](https://www.smooth-on.com/products/ecoflex-00-50/)                 | Alternative Toy Silicone      |      2lb Trial Kit     |             [$32.21](https://www.reynoldsam.com/product/ecoflex/)             |
 |   | [Exoflex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/)                 |    Alternative Toy Silicone   |      2lb Trial Kit     |              [32.21](https://www.reynoldsam.com/product/ecoflex/)             |
 |   | [Silc-Pig](https://www.smooth-on.com/products/silc-pig/)                           |          Toy Pigment          | Sample Pack (9 colors) |             [$31.84](https://www.reynoldsam.com/product/silc-pig/)            |
-|   | [Mica Pigment](https://www.elementsbathandbody.com/Micas/)                         |      Alternative Pigment      |           1oz          |             [$3.99/ea](https://www.elementsbathandbody.com/Micas/)            |
+|   | [Mica Pigment](https://www.elementsbathandbody.com/colorants/micas.aspx)                         |      Alternative Pigment      |           1oz          |             [$3.99/ea](https://www.elementsbathandbody.com/Micas/)            |
 |   |                                                                                    |                               |                        |                                                                               |
 |   | **Moldmaking Materials**                                                           |                               |                        |                                                                               |
 |   | [Ease Release 200](https://www.smooth-on.com/products/ease-release-200/)           |       Mold Release Agent      |        12-Ounce        |         [$14.28](https://www.reynoldsam.com/product/ease-release-200/)        |
@@ -516,7 +516,7 @@ Mica-based pigments are an excellent choice for silicone, and are sold as a fine
   
 ![Baggies of colorful mica pigments](images/MicaPigments.jpg)
 
-I've purchased my mica pigments from [Elements Bath and Body](https://www.elementsbathandbody.com/Micas/), and have been very happy with their products.  
+I've purchased my mica pigments from [Elements Bath and Body](https://www.elementsbathandbody.com/colorants/micas.aspx), and have been very happy with their products.  
   
 Be cautious when shopping for micas or other pigments online. Not all sellers provide honest or complete listings. The terms "cosmetics-grade" and "non-toxic" are extremely vague, and can used to describe a wide variety of different additives.
   
