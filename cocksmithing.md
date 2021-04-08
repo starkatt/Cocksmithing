@@ -520,7 +520,10 @@ I've purchased my mica pigments from [Elements Bath and Body](https://www.elemen
   
 Be cautious when shopping for micas or other pigments online. Not all sellers provide honest or complete listings. The terms "cosmetics-grade" and "non-toxic" are extremely vague, and can used to describe a wide variety of different additives.
   
-A more rigorous standard is checking against specific FDA application certifications for a particular pigment. While the FDA doesn't have a list of pigments that are safe for sex toys, they do maintain a listing of cosmetics pigments for [eye and lip applications](https://www.fda.gov/cosmetics/cosmetic-ingredient-names/color-additives-permitted-use-cosmetics), and a somewhat more permissive listing for [food-contact polymers](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=178.3297). I'm not sufficiently knowledgeable to know which of those lists is more applicable for toy safety, or even to say definitively whether silicone encapsulation already renders off-list pigments safely inert.
+A more rigorous standard is checking against specific FDA application certifications for a particular pigment. While the FDA doesn't have a list of pigments that are safe for sex toys, they do maintain a listing of cosmetics pigments for [eye and lip applications](https://www.fda.gov/cosmetics/cosmetic-ingredient-names/color-additives-permitted-use-cosmetics), and a somewhat more permissive listing for [food-contact polymers](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=178.3297). I'm not sufficiently knowledgeable to know which of those lists is more applicable for toy safety, or even to say definitively whether silicone encapsulation already renders off-list pigments safely inert.  
+  
+Pigments containing ultramarines should be avoided, as they can cause cure inhibition. Ferric Ferrocyanide (Prussian Blue) and Azo compounds (many Lake and D&C reds and yellows) may also be problematic. Systematic testing of pigments and cure inhibition is something I'd like to pursue in the future.
+ 
    
 Coarse plastic glitters should never be used, as their edges can cut and degrade the silicones they're embedded in.
   
