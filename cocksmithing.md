@@ -141,7 +141,7 @@ Each kit comes with a tiny mixing cup and one foam brush. So that you're not lim
   
 Before you mix the epoxy, secure the primary model so that its base isn't resting flat on your work surface, to prevent epoxy from pooling and creating an "elephant's foot". Also, make sure you have a way to stably hold the model while brushing, and that it won't tip over while it cures. I've been able to meet all of these needs by hot gluing the model to a small block on top of a wooden stir stick.  
   
-Nitrile or vinyl gloves should be worn whenever silicones or epoxies are being mixed and applied. While uncured silicones and epoxies are both unpleasant to get on your hands, epoxy in particular can cause severe reactions with repeated unprotected exposure.
+Vinyl or nitrile gloves should be worn whenever silicones or epoxies are being mixed and applied. While uncured silicones and epoxies are both unpleasant to get on your hands, epoxy in particular can cause severe reactions with repeated unprotected exposure.
 
 ![The Primary model mounted as described](images/CrushDepthModelFixture.jpg)
   
@@ -421,7 +421,7 @@ For convenience, here's a compact list of products used. Links in the leftmost c
 |   | 64oz Mixing Container                                                              | Silicone Mixing (larger toys) |           10           |        [$18.94](https://www.reynoldsam.com/product/mixing-containers/)        |
 |   | Stir Sticks                                                                        |    Mixing, Mold Application   |           30           |                                     $9.00                                     |
 |   | 1" Chip Brushes                                                                    |        Mold Application       |            8           |                                     $4.00                                     |
-|   | Nitrile Gloves                                                                     |              PPE              |        100-pack        |                                      $20                                      |
+|   | Vinyl/Nitrile Gloves                                                                     |              PPE              |        100-pack        |                                      $20                                      |
 |   |                                                                                    |                               |                        |                                                                               |
 |   | **Supplementals**                                                                  |                               |                        |                                                                               |
 |   | [Slo-Jo](https://www.smooth-on.com/products/slo-jo/)                               |        Extends Pot Life       |          Pint          |              [17.87](https://www.reynoldsam.com/product/slo-jo/)              |
@@ -523,8 +523,7 @@ Be cautious when shopping for micas or other pigments online. Not all sellers pr
 A more rigorous standard is checking against specific FDA application certifications for a particular pigment. While the FDA doesn't have a list of pigments that are safe for sex toys, they do maintain a listing of cosmetics pigments for [eye and lip applications](https://www.fda.gov/cosmetics/cosmetic-ingredient-names/color-additives-permitted-use-cosmetics), and a somewhat more permissive listing for [food-contact polymers](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=178.3297). I'm not sufficiently knowledgeable to know which of those lists is more applicable for toy safety, or even to say definitively whether silicone encapsulation already renders off-list pigments safely inert.  
   
 Pigments containing ultramarines should be avoided, as they can cause cure inhibition. Ferric Ferrocyanide (Prussian Blue) and Azo compounds (many Lake and D&C reds and yellows) may also be problematic. Systematic testing of pigments and cure inhibition is something I'd like to pursue in the future.
- 
-   
+    
 Coarse plastic glitters should never be used, as their edges can cut and degrade the silicones they're embedded in.
   
 For my own toys, I've gotten excellent results by combining both `Silc-Pig` and mica pigments to achieve target colors.  
@@ -561,7 +560,7 @@ Disposable plastic knives can be used as alternative to wooden stir sticks. Plas
   
   
 ### Other Stuff  
-Nitrile or vinyl gloves should be worn whenever epoxies or silicones are being mixed or applied -- i.e, in almost every step of this process. Expect to go through a lot of them. Latex gloves should not be used, as they may cause cure inhibition in silicone.   
+Protective gloves should be worn whenever epoxies or silicones are being mixed or applied -- i.e, in almost every step of this process. Expect to go through a lot of them. Vinyl is *slightly* preferable to nitrile, as some nitriles may inhibit cure of silicone they're left in direct contact with. In practice, either is generally fine. Latex gloves can cause serious cure inhibition even by proximity, and should never be used.
  
 Several small single-use chip brushes are required for applying the `XTC-3D` smoothing epoxy and the `Rebound 25` mold silicone.
 
