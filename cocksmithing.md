@@ -415,7 +415,6 @@ For convenience, here's a compact list of products used. Links in the leftmost c
 |   |                                                                                    |                               |                        |                                                                               |
 |   | **Consumables**                                                                    |                               |                        |                                                                               |
 |   | 1oz Mixing Container                                                               |         XTC-3D mixing         |           10           |                                     $5.00                                     |
-
 |   | 16oz Mixing Container                                                              |        Silicone Mixing        |           10           |         [$6.31](https://www.reynoldsam.com/product/mixing-containers/)        |
 |   | 32oz Mixing Container                                                              |        Silicone Mixing        |           10           |         [$7.60](https://www.reynoldsam.com/product/mixing-containers/)        |
 |   | 64oz Mixing Container                                                              | Silicone Mixing (larger toys) |           10           |        [$18.94](https://www.reynoldsam.com/product/mixing-containers/)        |
